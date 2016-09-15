@@ -1,272 +1,540 @@
 {
-  "paradas": [
+  "stops": [
     {
-      "id": 3,
-      "name": "AABB"
-    },
-    {
-      "id": 64,
-      "name": "Aldiegas Peças e Serviços"
-    },
-    {
-      "id": 7,
-      "name": "Ao Lado do Batalhão da PM"
-    },
-    {
-      "id": 49,
-      "name": "Bar da Tripa"
-    },
-    {
-      "id": 26,
-      "name": "Caixa d’água Compesa"
-    },
-    {
-      "id": 54,
-      "name": "Caldinho 3D (Av. Integração)"
-    },
-    {
-      "id": 11,
-      "name": "Canteiro de Obras - Juazeiro"
-    },
-    {
-      "id": 31,
-      "name": "Canteiro de Obras (Av. 7 de Set)"
-    },
-    {
-      "id": 25,
-      "name": "CDF - Curso de Física (Av. das Nações)"
-    },
-    {
-      "id": 51,
-      "name": "Colina Auto Peças"
-    },
-    {
-      "id": 38,
-      "name": "Corpo de Bombeiros Petrolina"
-    },
-    {
-      "id": 22,
-      "name": "Del Veículos"
-    },
-    {
-      "id": 16,
-      "name": "Delegacia do Ouro Preto"
-    },
-    {
-      "id": 46,
-      "name": "Disk Auto Elétrico"
-    },
-    {
-      "id": 47,
-      "name": "Distribuidora COMPARE"
-    },
-    {
-      "id": 20,
-      "name": "Entrada do Bairro Quati"
-    },
-    {
-      "id": 9,
-      "name": "Equipadora Cordeiro (Alto do Cruzeiro)"
-    },
-    {
-      "id": 62,
-      "name": "Escola Adelina Almeida"
-    },
-    {
-      "id": 29,
-      "name": "Escola Estadual Paul Harris"
-    },
-    {
-      "id": 65,
-      "name": "Espacial/Palhoça"
-    },
-    {
-      "id": 4,
-      "name": "Estação Velha / Cooperativa Brasil"
-    },
-    {
-      "id": 45,
-      "name": "Everest Motos"
-    },
-    {
-      "id": 5,
-      "name": "Farmácia Popular (João XXIII)"
-    },
-    {
-      "id": 18,
-      "name": "Feira da Cohab Massangano (Jardim Amazonas)"
-    },
-    {
-      "id": 32,
-      "name": "Grande Rio Veículos"
-    },
-    {
-      "id": 42,
-      "name": "Hyundai"
-    },
-    {
-      "id": 21,
-      "name": "IF Sertão"
-    },
-    {
-      "id": 40,
-      "name": "Igreja Mórmon"
-    },
-    {
-      "id": 35,
-      "name": "INCRA (Av. Integração)"
-    },
-    {
-      "id": 55,
-      "name": "Joalina (Av. das Nações)"
-    },
-    {
-      "id": 63,
-      "name": "Lateral Cemitério Campo das Flores - Centro"
-    },
-    {
-      "id": 14,
-      "name": "Mecânica Bahia"
-    },
-    {
-      "id": 34,
-      "name": "Ministério Público"
-    },
-    {
-      "id": 59,
-      "name": "Nissan"
-    },
-    {
-      "id": 61,
-      "name": "Padaria Lisboa"
-    },
-    {
-      "id": 36,
-      "name": "Parada próximo a Metalúrgica (Av Nilo Coelho)"
-    },
-    {
-      "id": 48,
-      "name": "Park Mundo da Lua (Av. Integração)"
-    },
-    {
-      "id": 10,
-      "name": "Parque Lagoa de Calú"
-    },
-    {
-      "id": 53,
-      "name": "PETRAPE (Av. Integração)"
-    },
-    {
-      "id": 58,
-      "name": "Plante Bem"
-    },
-    {
-      "id": 56,
-      "name": "Ponto de parada HAVAN"
-    },
-    {
-      "id": 60,
-      "name": "Ponto do CEAPE"
-    },
-    {
-      "id": 50,
-      "name": "Posto Big Brother"
-    },
-    {
-      "id": 44,
-      "name": "Posto Entrada do Rio Corrente (ALE)"
-    },
-    {
-      "id": 8,
-      "name": "Posto Raul Lins (Castelo Branco)"
-    },
-    {
-      "id": 17,
-      "name": "Posto São Francisco"
-    },
-    {
-      "id": 37,
-      "name": "Praça da Ambiental (Av. Nilo Coelho)"
-    },
-    {
-      "id": 28,
-      "name": "Praça da Sementeira"
-    },
-    {
-      "id": 15,
-      "name": "Rádio Grande Rio"
-    },
-    {
-      "id": 24,
-      "name": "Rodoviária - Petrolina (Av. das Nações)"
-    },
-    {
-      "id": 43,
-      "name": "Rotatória da Tapera"
-    },
-    {
-      "id": 27,
-      "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)"
-    },
-    {
-      "id": 66,
-      "name": "SAF"
-    },
-    {
-      "id": 19,
-      "name": "SAMU (Jardim Amazonas)"
+      "id": 1,
+      "name": "UNIVASF Campus Juazeiro",
+      "lat": "-9.41153150",
+      "lng": "-40.51271800",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
       "id": 2,
-      "name": "Sanfra Motos"
+      "name": "Sanfra Motos",
+      "lat": "-9.41283180",
+      "lng": "-40.50649650",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
-      "id": 67,
-      "name": "Sindicato Rural dos Trabalhadores"
+      "id": 3,
+      "name": "AABB",
+      "lat": "-9.41733470",
+      "lng": "-40.50718710",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
-      "id": 33,
-      "name": "Supermercado G Barbosa"
+      "id": 4,
+      "name": "Estação Velha / Cooperativa Brasil",
+      "lat": "-9.41733470",
+      "lng": "-40.50718710",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
-      "id": 39,
-      "name": "Supermercado G Barbosa - Juazeiro"
-    },
-    {
-      "id": 41,
-      "name": "Supermercado Pageú"
-    },
-    {
-      "id": 12,
-      "name": "Terminal de Juazeiro"
-    },
-    {
-      "id": 57,
-      "name": "TV São Francisco"
-    },
-    {
-      "id": 13,
-      "name": "UNIVASF Campus Ciências Agrárias - CCA"
-    },
-    {
-      "id": 1,
-      "name": "UNIVASF Campus Juazeiro"
-    },
-    {
-      "id": 23,
-      "name": "UNIVASF Campus Petrolina Centro"
+      "id": 5,
+      "name": "Farmácia Popular (João XXIII)",
+      "lat": "-9.43418400",
+      "lng": "-40.50129150",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
       "id": 6,
-      "name": "Verdão"
+      "name": "Verdão",
+      "lat": "-9.44239990",
+      "lng": "-40.49344990",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
     },
     {
-      "id": 52,
-      "name": "Vila Militar"
+      "id": 7,
+      "name": "Ao Lado do Batalhão da PM",
+      "lat": "-9.44207000",
+      "lng": "-40.49286300",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 8,
+      "name": "Posto Raul Lins (Castelo Branco)",
+      "lat": "-9.43859400",
+      "lng": "-40.49479600",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 9,
+      "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
+      "lat": "-9.43117310",
+      "lng": "-40.49828710",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 10,
+      "name": "Parque Lagoa de Calú",
+      "lat": "-9.25314000",
+      "lng": "-40.30067000",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 11,
+      "name": "Canteiro de Obras - Juazeiro",
+      "lat": "-9.41995540",
+      "lng": "-40.50120240",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 12,
+      "name": "Terminal de Juazeiro",
+      "lat": "-9.41470290",
+      "lng": "-40.50506960",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 13,
+      "name": "UNIVASF Campus Ciências Agrárias - CCA",
+      "lat": "-9.32920030",
+      "lng": "-40.55126650",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 14,
+      "name": "Mecânica Bahia",
+      "lat": "-9.37557870",
+      "lng": "-40.49483500",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 15,
+      "name": "Rádio Grande Rio",
+      "lat": "-9.37882730",
+      "lng": "-40.50690600",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 16,
+      "name": "Delegacia do Ouro Preto",
+      "lat": "-9.38316920",
+      "lng": "-40.51616740",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 17,
+      "name": "Posto São Francisco",
+      "lat": "-9.38559880",
+      "lng": "-40.52540780",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 18,
+      "name": "Feira da Cohab Massangano (Jardim Amazonas)",
+      "lat": "-9.37979310",
+      "lng": "-40.53340800",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 19,
+      "name": "SAMU (Jardim Amazonas)",
+      "lat": "-9.37813930",
+      "lng": "-40.53507120",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 20,
+      "name": "Entrada do Bairro Quati",
+      "lat": "-9.36528310",
+      "lng": "-40.54374950",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 21,
+      "name": "IF Sertão",
+      "lat": "-9.36244600",
+      "lng": "-40.54030000",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 22,
+      "name": "Del Veículos",
+      "lat": "-9.39416300",
+      "lng": "-40.51031800",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 23,
+      "name": "UNIVASF Campus Petrolina Centro",
+      "lat": "-9.39006840",
+      "lng": "-40.49883060",
+      "created_at": "2016-06-02 01:03:27",
+      "updated_at": "2016-06-02 01:03:27"
+    },
+    {
+      "id": 24,
+      "name": "Rodoviária - Petrolina (Av. das Nações)",
+      "lat": "-9.39119750",
+      "lng": "-40.50821670",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 25,
+      "name": "CDF - Curso de Física (Av. das Nações)",
+      "lat": "-9.38865310",
+      "lng": "-40.50894960",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 26,
+      "name": "Caixa d’água Compesa",
+      "lat": "-9.39055300",
+      "lng": "-40.50104400",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 27,
+      "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
+      "lat": "-9.38285490",
+      "lng": "-40.50289500",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 28,
+      "name": "Praça da Sementeira",
+      "lat": "-9.38586010",
+      "lng": "-40.50968700",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 29,
+      "name": "Escola Estadual Paul Harris",
+      "lat": "-9.39289110",
+      "lng": "-40.51432240",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
     },
     {
       "id": 30,
-      "name": "Zé Nilton Automóveis"
+      "name": "Zé Nilton Automóveis",
+      "lat": "-9.39160510",
+      "lng": "-40.51818700",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 31,
+      "name": "Canteiro de Obras (Av. 7 de Set)",
+      "lat": "-9.37615900",
+      "lng": "-40.49522600",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 32,
+      "name": "Grande Rio Veículos",
+      "lat": "-9.38568920",
+      "lng": "-40.48890250",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 33,
+      "name": "Supermercado G Barbosa",
+      "lat": "-9.39006120",
+      "lng": "-40.48921090",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 34,
+      "name": "Ministério Público",
+      "lat": "-9.39705940",
+      "lng": "-40.49258500",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 35,
+      "name": "INCRA (Av. Integração)",
+      "lat": "-9.38400760",
+      "lng": "-40.50619970",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 36,
+      "name": "Parada próximo a Metalúrgica (Av Nilo Coelho)",
+      "lat": "-9.38660200",
+      "lng": "-40.51146300",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 37,
+      "name": "Praça da Ambiental (Av. Nilo Coelho)",
+      "lat": "-9.38974980",
+      "lng": "-40.51044590",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 38,
+      "name": "Corpo de Bombeiros Petrolina",
+      "lat": "-9.39265530",
+      "lng": "-40.50955190",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 39,
+      "name": "Supermercado G Barbosa - Juazeiro",
+      "lat": "-9.42170100",
+      "lng": "-40.50089770",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 40,
+      "name": "Igreja Mórmon",
+      "lat": "-9.39579900",
+      "lng": "-40.51012400",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 41,
+      "name": "Supermercado Pageú",
+      "lat": "-9.39703900",
+      "lng": "-40.51325200",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 42,
+      "name": "Hyundai",
+      "lat": "-9.39578600",
+      "lng": "-40.51867450",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 43,
+      "name": "Rotatória da Tapera",
+      "lat": "-9.39190010",
+      "lng": "-40.52421300",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 44,
+      "name": "Posto Entrada do Rio Corrente (ALE)",
+      "lat": "-9.39350540",
+      "lng": "-40.54351620",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 45,
+      "name": "Everest Motos",
+      "lat": "-9.38392680",
+      "lng": "-40.54212330",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 46,
+      "name": "Disk Auto Elétrico",
+      "lat": "-9.38295470",
+      "lng": "-40.54174540",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 47,
+      "name": "Distribuidora COMPARE",
+      "lat": "-9.37477490",
+      "lng": "-40.53915310",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 48,
+      "name": "Park Mundo da Lua (Av. Integração)",
+      "lat": "-9.38537350",
+      "lng": "-40.49802130",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 49,
+      "name": "Bar da Tripa",
+      "lat": "-9.39728350",
+      "lng": "-40.49145680",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 50,
+      "name": "Posto Big Brother",
+      "lat": "-9.37758270",
+      "lng": "-40.48842540",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 51,
+      "name": "Colina Auto Peças",
+      "lat": "-9.37799270",
+      "lng": "-40.50442290",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 52,
+      "name": "Vila Militar",
+      "lat": "-9.38251830",
+      "lng": "-40.51557820",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 53,
+      "name": "PETRAPE (Av. Integração)",
+      "lat": "-9.38845410",
+      "lng": "-40.51784040",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 54,
+      "name": "Caldinho 3D (Av. Integração)",
+      "lat": "-9.38584600",
+      "lng": "-40.51261720",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 55,
+      "name": "Joalina (Av. das Nações)",
+      "lat": "-9.38515160",
+      "lng": "-40.51012500",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 56,
+      "name": "Ponto de parada HAVAN",
+      "lat": "-9.39110710",
+      "lng": "-40.51972880",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 57,
+      "name": "TV São Francisco",
+      "lat": "-9.41525330",
+      "lng": "-40.50110910",
+      "created_at": "2016-06-02 01:03:28",
+      "updated_at": "2016-06-02 01:03:28"
+    },
+    {
+      "id": 58,
+      "name": "Plante Bem",
+      "lat": "-9.39484610",
+      "lng": "-40.52011130",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 59,
+      "name": "Nissan",
+      "lat": "-9.39522760",
+      "lng": "-40.49034770",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 60,
+      "name": "Ponto do CEAPE",
+      "lat": "-9.38077730",
+      "lng": "-40.51095910",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 61,
+      "name": "Padaria Lisboa",
+      "lat": "-9.38802270",
+      "lng": "-40.51096990",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 62,
+      "name": "Escola Adelina Almeida",
+      "lat": "-9.38383500",
+      "lng": "-40.48909130",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 63,
+      "name": "Lateral Cemitério Campo das Flores - Centro",
+      "lat": "-9.39472390",
+      "lng": "-40.50651850",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 64,
+      "name": "Aldiegas Peças e Serviços",
+      "lat": "-9.37677780",
+      "lng": "-40.49687420",
+      "created_at": "2016-06-02 01:03:29",
+      "updated_at": "2016-06-02 01:03:29"
+    },
+    {
+      "id": 65,
+      "name": "Espacial/Palhoça",
+      "lat": "-9.38126500",
+      "lng": "-40.51208650",
+      "created_at": "2016-06-02 01:03:30",
+      "updated_at": "2016-06-02 01:03:30"
+    },
+    {
+      "id": 66,
+      "name": "SAF",
+      "lat": "-9.41717240",
+      "lng": "-40.50715480",
+      "created_at": "2016-06-02 01:03:30",
+      "updated_at": "2016-06-02 01:03:30"
+    },
+    {
+      "id": 67,
+      "name": "Sindicato Rural dos Trabalhadores",
+      "lat": "-9.38865310",
+      "lng": "-40.50894960",
+      "created_at": "2016-06-02 01:03:30",
+      "updated_at": "2016-06-02 01:03:30"
     }
   ],
   "routes": [
@@ -276,6 +544,7 @@
       "way": "Batalhão PM/Av. Nações",
       "stops": [
         {
+          "rota_id": "1",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -283,6 +552,7 @@
           "time": "06:10:00"
         },
         {
+          "rota_id": "1",
           "id": 2,
           "name": "Sanfra Motos",
           "lat": "-9.41283180",
@@ -290,6 +560,7 @@
           "time": "06:12:00"
         },
         {
+          "rota_id": "1",
           "id": 3,
           "name": "AABB",
           "lat": "-9.41733470",
@@ -297,6 +568,7 @@
           "time": "06:15:00"
         },
         {
+          "rota_id": "1",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -304,6 +576,7 @@
           "time": "06:20:00"
         },
         {
+          "rota_id": "1",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -311,6 +584,7 @@
           "time": "06:23:00"
         },
         {
+          "rota_id": "1",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -318,6 +592,7 @@
           "time": "06:25:00"
         },
         {
+          "rota_id": "1",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -325,6 +600,7 @@
           "time": "06:27:00"
         },
         {
+          "rota_id": "1",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -332,6 +608,7 @@
           "time": "06:30:00"
         },
         {
+          "rota_id": "1",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -339,6 +616,7 @@
           "time": "06:32:00"
         },
         {
+          "rota_id": "1",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -346,6 +624,7 @@
           "time": "06:35:00"
         },
         {
+          "rota_id": "1",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -353,6 +632,7 @@
           "time": "06:37:00"
         },
         {
+          "rota_id": "1",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -360,6 +640,7 @@
           "time": "06:40:00"
         },
         {
+          "rota_id": "1",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -374,6 +655,7 @@
       "way": " Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "2",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -381,6 +663,7 @@
           "time": "07:07:00"
         },
         {
+          "rota_id": "2",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -388,6 +671,7 @@
           "time": "07:30:00"
         },
         {
+          "rota_id": "2",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -395,6 +679,7 @@
           "time": "07:32:00"
         },
         {
+          "rota_id": "2",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -402,6 +687,7 @@
           "time": "07:35:00"
         },
         {
+          "rota_id": "2",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -409,6 +695,7 @@
           "time": "07:36:00"
         },
         {
+          "rota_id": "2",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -416,6 +703,7 @@
           "time": "07:38:00"
         },
         {
+          "rota_id": "2",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -423,6 +711,7 @@
           "time": "07:40:00"
         },
         {
+          "rota_id": "2",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -430,6 +719,7 @@
           "time": "07:42:00"
         },
         {
+          "rota_id": "2",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -437,6 +727,7 @@
           "time": "07:45:00"
         },
         {
+          "rota_id": "2",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -444,6 +735,7 @@
           "time": "07:50:00"
         },
         {
+          "rota_id": "2",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -451,6 +743,7 @@
           "time": "08:10:00"
         },
         {
+          "rota_id": "2",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -458,6 +751,7 @@
           "time": "08:20:00"
         },
         {
+          "rota_id": "2",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -472,6 +766,7 @@
       "way": "Av. Honorato Viana",
       "stops": [
         {
+          "rota_id": "3",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -479,6 +774,7 @@
           "time": "06:10:00"
         },
         {
+          "rota_id": "3",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -486,6 +782,7 @@
           "time": "06:12:00"
         },
         {
+          "rota_id": "3",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -493,6 +790,7 @@
           "time": "06:18:00"
         },
         {
+          "rota_id": "3",
           "id": 25,
           "name": "CDF - Curso de Física (Av. das Nações)",
           "lat": "-9.38865310",
@@ -500,6 +798,7 @@
           "time": "06:20:00"
         },
         {
+          "rota_id": "3",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -507,6 +806,7 @@
           "time": "06:23:00"
         },
         {
+          "rota_id": "3",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -514,6 +814,7 @@
           "time": "06:25:00"
         },
         {
+          "rota_id": "3",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -521,6 +822,7 @@
           "time": "06:28:00"
         },
         {
+          "rota_id": "3",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -528,6 +830,7 @@
           "time": "06:30:00"
         },
         {
+          "rota_id": "3",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -535,6 +838,7 @@
           "time": "06:33:00"
         },
         {
+          "rota_id": "3",
           "id": 29,
           "name": "Escola Estadual Paul Harris",
           "lat": "-9.39289110",
@@ -542,6 +846,7 @@
           "time": "06:35:00"
         },
         {
+          "rota_id": "3",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -549,6 +854,7 @@
           "time": "06:37:00"
         },
         {
+          "rota_id": "3",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -556,6 +862,7 @@
           "time": "06:40:00"
         },
         {
+          "rota_id": "3",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -563,6 +870,7 @@
           "time": "06:45:00"
         },
         {
+          "rota_id": "3",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -570,6 +878,7 @@
           "time": "06:48:00"
         },
         {
+          "rota_id": "3",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -577,6 +886,7 @@
           "time": "06:50:00"
         },
         {
+          "rota_id": "3",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -591,6 +901,7 @@
       "way": "Av. 7 de Set/Integração/Nilo Coelho",
       "stops": [
         {
+          "rota_id": "4",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -598,6 +909,7 @@
           "time": "07:00:00"
         },
         {
+          "rota_id": "4",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -605,6 +917,7 @@
           "time": "07:10:00"
         },
         {
+          "rota_id": "4",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -612,6 +925,7 @@
           "time": "07:13:00"
         },
         {
+          "rota_id": "4",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -619,6 +933,7 @@
           "time": "07:15:00"
         },
         {
+          "rota_id": "4",
           "id": 34,
           "name": "Ministério Público",
           "lat": "-9.39705940",
@@ -626,6 +941,7 @@
           "time": "07:19:00"
         },
         {
+          "rota_id": "4",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -633,6 +949,7 @@
           "time": "07:22:00"
         },
         {
+          "rota_id": "4",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -640,6 +957,7 @@
           "time": "07:28:00"
         },
         {
+          "rota_id": "4",
           "id": 35,
           "name": "INCRA (Av. Integração)",
           "lat": "-9.38400760",
@@ -647,6 +965,7 @@
           "time": "07:30:00"
         },
         {
+          "rota_id": "4",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -654,6 +973,7 @@
           "time": "07:32:00"
         },
         {
+          "rota_id": "4",
           "id": 36,
           "name": "Parada próximo a Metalúrgica (Av Nilo Coelho)",
           "lat": "-9.38660200",
@@ -661,6 +981,7 @@
           "time": "07:35:00"
         },
         {
+          "rota_id": "4",
           "id": 37,
           "name": "Praça da Ambiental (Av. Nilo Coelho)",
           "lat": "-9.38974980",
@@ -668,6 +989,7 @@
           "time": "07:38:00"
         },
         {
+          "rota_id": "4",
           "id": 38,
           "name": "Corpo de Bombeiros Petrolina",
           "lat": "-9.39265530",
@@ -675,6 +997,7 @@
           "time": "07:40:00"
         },
         {
+          "rota_id": "4",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -682,6 +1005,7 @@
           "time": "08:50:00"
         },
         {
+          "rota_id": "4",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -696,6 +1020,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "5",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -703,6 +1028,7 @@
           "time": "06:00:00"
         },
         {
+          "rota_id": "5",
           "id": 40,
           "name": "Igreja Mórmon",
           "lat": "-9.39579900",
@@ -710,6 +1036,7 @@
           "time": "06:08:00"
         },
         {
+          "rota_id": "5",
           "id": 41,
           "name": "Supermercado Pageú",
           "lat": "-9.39703900",
@@ -717,6 +1044,7 @@
           "time": "06:12:00"
         },
         {
+          "rota_id": "5",
           "id": 42,
           "name": "Hyundai",
           "lat": "-9.39578600",
@@ -724,6 +1052,7 @@
           "time": "06:20:00"
         },
         {
+          "rota_id": "5",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -731,6 +1060,7 @@
           "time": "06:30:00"
         },
         {
+          "rota_id": "5",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -738,6 +1068,7 @@
           "time": "06:35:00"
         },
         {
+          "rota_id": "5",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -745,6 +1076,7 @@
           "time": "06:40:00"
         },
         {
+          "rota_id": "5",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -752,6 +1084,7 @@
           "time": "06:43:00"
         },
         {
+          "rota_id": "5",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -759,6 +1092,7 @@
           "time": "06:45:00"
         },
         {
+          "rota_id": "5",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -766,6 +1100,7 @@
           "time": "06:50:00"
         },
         {
+          "rota_id": "5",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -773,6 +1108,7 @@
           "time": "06:53:00"
         },
         {
+          "rota_id": "5",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -780,6 +1116,7 @@
           "time": "06:55:00"
         },
         {
+          "rota_id": "5",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -787,6 +1124,7 @@
           "time": "06:58:00"
         },
         {
+          "rota_id": "5",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -801,6 +1139,7 @@
       "way": "Av. Honorato viana",
       "stops": [
         {
+          "rota_id": "6",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -808,6 +1147,7 @@
           "time": "07:05:00"
         },
         {
+          "rota_id": "6",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -815,6 +1155,7 @@
           "time": "07:10:00"
         },
         {
+          "rota_id": "6",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -822,6 +1163,7 @@
           "time": "07:13:00"
         },
         {
+          "rota_id": "6",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -829,6 +1171,7 @@
           "time": "07:15:00"
         },
         {
+          "rota_id": "6",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -836,6 +1179,7 @@
           "time": "07:16:00"
         },
         {
+          "rota_id": "6",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -843,6 +1187,7 @@
           "time": "07:18:00"
         },
         {
+          "rota_id": "6",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -850,6 +1195,7 @@
           "time": "07:21:00"
         },
         {
+          "rota_id": "6",
           "id": 38,
           "name": "Corpo de Bombeiros Petrolina",
           "lat": "-9.39265530",
@@ -857,6 +1203,7 @@
           "time": "07:23:00"
         },
         {
+          "rota_id": "6",
           "id": 37,
           "name": "Praça da Ambiental (Av. Nilo Coelho)",
           "lat": "-9.38974980",
@@ -864,6 +1211,7 @@
           "time": "07:25:00"
         },
         {
+          "rota_id": "6",
           "id": 36,
           "name": "Parada próximo a Metalúrgica (Av Nilo Coelho)",
           "lat": "-9.38660200",
@@ -871,6 +1219,7 @@
           "time": "07:36:00"
         },
         {
+          "rota_id": "6",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -878,6 +1227,7 @@
           "time": "07:28:00"
         },
         {
+          "rota_id": "6",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -885,6 +1235,7 @@
           "time": "07:30:00"
         },
         {
+          "rota_id": "6",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -892,6 +1243,7 @@
           "time": "07:31:00"
         },
         {
+          "rota_id": "6",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -899,6 +1251,7 @@
           "time": "07:35:00"
         },
         {
+          "rota_id": "6",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -913,6 +1266,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "7",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -920,6 +1274,7 @@
           "time": "06:40:00"
         },
         {
+          "rota_id": "7",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -927,6 +1282,7 @@
           "time": "06:50:00"
         },
         {
+          "rota_id": "7",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -934,6 +1290,7 @@
           "time": "06:53:00"
         },
         {
+          "rota_id": "7",
           "id": 25,
           "name": "CDF - Curso de Física (Av. das Nações)",
           "lat": "-9.38865310",
@@ -941,6 +1298,7 @@
           "time": "06:56:00"
         },
         {
+          "rota_id": "7",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -948,6 +1306,7 @@
           "time": "06:58:00"
         },
         {
+          "rota_id": "7",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -955,6 +1314,7 @@
           "time": "07:00:00"
         },
         {
+          "rota_id": "7",
           "id": 49,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
@@ -962,6 +1322,7 @@
           "time": "07:03:00"
         },
         {
+          "rota_id": "7",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -969,6 +1330,7 @@
           "time": "07:05:00"
         },
         {
+          "rota_id": "7",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -976,6 +1338,7 @@
           "time": "07:08:00"
         },
         {
+          "rota_id": "7",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -983,6 +1346,7 @@
           "time": "07:10:00"
         },
         {
+          "rota_id": "7",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -990,6 +1354,7 @@
           "time": "07:12:00"
         },
         {
+          "rota_id": "7",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -997,6 +1362,7 @@
           "time": "07:15:00"
         },
         {
+          "rota_id": "7",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -1004,6 +1370,7 @@
           "time": "07:18:00"
         },
         {
+          "rota_id": "7",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -1011,6 +1378,7 @@
           "time": "07:20:00"
         },
         {
+          "rota_id": "7",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -1018,6 +1386,7 @@
           "time": "07:22:00"
         },
         {
+          "rota_id": "7",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -1025,6 +1394,7 @@
           "time": "07:25:00"
         },
         {
+          "rota_id": "7",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1032,6 +1402,7 @@
           "time": "07:30:00"
         },
         {
+          "rota_id": "7",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1039,6 +1410,7 @@
           "time": "07:32:00"
         },
         {
+          "rota_id": "7",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -1046,6 +1418,7 @@
           "time": "07:35:00"
         },
         {
+          "rota_id": "7",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -1053,6 +1426,7 @@
           "time": "07:40:00"
         },
         {
+          "rota_id": "7",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1067,6 +1441,7 @@
       "way": "Honorato/Integração",
       "stops": [
         {
+          "rota_id": "8",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1074,6 +1449,7 @@
           "time": "08:30:00"
         },
         {
+          "rota_id": "8",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -1081,6 +1457,7 @@
           "time": "08:35:00"
         },
         {
+          "rota_id": "8",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -1088,6 +1465,7 @@
           "time": "08:41:00"
         },
         {
+          "rota_id": "8",
           "id": 25,
           "name": "CDF - Curso de Física (Av. das Nações)",
           "lat": "-9.38865310",
@@ -1095,6 +1473,7 @@
           "time": "08:43:00"
         },
         {
+          "rota_id": "8",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -1102,6 +1481,7 @@
           "time": "08:45:00"
         },
         {
+          "rota_id": "8",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1109,6 +1489,7 @@
           "time": "08:47:00"
         },
         {
+          "rota_id": "8",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -1116,6 +1497,7 @@
           "time": "08:52:00"
         },
         {
+          "rota_id": "8",
           "id": 29,
           "name": "Escola Estadual Paul Harris",
           "lat": "-9.39289110",
@@ -1123,6 +1505,7 @@
           "time": "08:55:00"
         },
         {
+          "rota_id": "8",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -1130,6 +1513,7 @@
           "time": "08:58:00"
         },
         {
+          "rota_id": "8",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1137,6 +1521,7 @@
           "time": "09:00:00"
         },
         {
+          "rota_id": "8",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1144,6 +1529,7 @@
           "time": "09:05:00"
         },
         {
+          "rota_id": "8",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -1151,6 +1537,7 @@
           "time": "09:07:00"
         },
         {
+          "rota_id": "8",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -1158,6 +1545,7 @@
           "time": "09:11:00"
         },
         {
+          "rota_id": "8",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -1165,6 +1553,7 @@
           "time": "09:15:00"
         },
         {
+          "rota_id": "8",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -1172,6 +1561,7 @@
           "time": "09:17:00"
         },
         {
+          "rota_id": "8",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -1179,6 +1569,7 @@
           "time": "09:20:00"
         },
         {
+          "rota_id": "8",
           "id": 53,
           "name": "PETRAPE (Av. Integração)",
           "lat": "-9.38845410",
@@ -1186,6 +1577,7 @@
           "time": "09:27:00"
         },
         {
+          "rota_id": "8",
           "id": 54,
           "name": "Caldinho 3D (Av. Integração)",
           "lat": "-9.38584600",
@@ -1193,6 +1585,7 @@
           "time": "09:29:00"
         },
         {
+          "rota_id": "8",
           "id": 37,
           "name": "Praça da Ambiental (Av. Nilo Coelho)",
           "lat": "-9.38974980",
@@ -1200,6 +1593,7 @@
           "time": "09:31:00"
         },
         {
+          "rota_id": "8",
           "id": 38,
           "name": "Corpo de Bombeiros Petrolina",
           "lat": "-9.39265530",
@@ -1207,6 +1601,7 @@
           "time": "09:33:00"
         },
         {
+          "rota_id": "8",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1221,6 +1616,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "9",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1228,6 +1624,7 @@
           "time": "08:45:00"
         },
         {
+          "rota_id": "9",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -1235,6 +1632,7 @@
           "time": "08:50:00"
         },
         {
+          "rota_id": "9",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -1242,6 +1640,7 @@
           "time": "09:00:00"
         },
         {
+          "rota_id": "9",
           "id": 25,
           "name": "CDF - Curso de Física (Av. das Nações)",
           "lat": "-9.38865310",
@@ -1249,6 +1648,7 @@
           "time": "09:03:00"
         },
         {
+          "rota_id": "9",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -1256,6 +1656,7 @@
           "time": "09:05:00"
         },
         {
+          "rota_id": "9",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1263,6 +1664,7 @@
           "time": "09:07:00"
         },
         {
+          "rota_id": "9",
           "id": 49,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
@@ -1270,6 +1672,7 @@
           "time": "09:09:00"
         },
         {
+          "rota_id": "9",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -1277,6 +1680,7 @@
           "time": "09:11:00"
         },
         {
+          "rota_id": "9",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -1284,6 +1688,7 @@
           "time": "09:13:00"
         },
         {
+          "rota_id": "9",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -1291,6 +1696,7 @@
           "time": "09:15:00"
         },
         {
+          "rota_id": "9",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -1298,6 +1704,7 @@
           "time": "09:18:00"
         },
         {
+          "rota_id": "9",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -1305,6 +1712,7 @@
           "time": "09:20:00"
         },
         {
+          "rota_id": "9",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -1312,6 +1720,7 @@
           "time": "09:22:00"
         },
         {
+          "rota_id": "9",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -1319,6 +1728,7 @@
           "time": "09:25:00"
         },
         {
+          "rota_id": "9",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -1326,6 +1736,7 @@
           "time": "09:28:00"
         },
         {
+          "rota_id": "9",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -1333,6 +1744,7 @@
           "time": "09:30:00"
         },
         {
+          "rota_id": "9",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1340,6 +1752,7 @@
           "time": "09:33:00"
         },
         {
+          "rota_id": "9",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1347,6 +1760,7 @@
           "time": "09:36:00"
         },
         {
+          "rota_id": "9",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -1354,6 +1768,7 @@
           "time": "09:40:00"
         },
         {
+          "rota_id": "9",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -1361,6 +1776,7 @@
           "time": "09:43:00"
         },
         {
+          "rota_id": "9",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1368,6 +1784,7 @@
           "time": "10:05:00"
         },
         {
+          "rota_id": "9",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -1375,6 +1792,7 @@
           "time": "10:13:00"
         },
         {
+          "rota_id": "9",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -1382,6 +1800,7 @@
           "time": "10:15:00"
         },
         {
+          "rota_id": "9",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1396,6 +1815,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "10",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1403,6 +1823,7 @@
           "time": "08:55:00"
         },
         {
+          "rota_id": "10",
           "id": 49,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
@@ -1410,6 +1831,7 @@
           "time": "08:58:00"
         },
         {
+          "rota_id": "10",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -1417,6 +1839,7 @@
           "time": "09:02:00"
         },
         {
+          "rota_id": "10",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -1424,6 +1847,7 @@
           "time": "09:06:00"
         },
         {
+          "rota_id": "10",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -1431,6 +1855,7 @@
           "time": "09:10:00"
         },
         {
+          "rota_id": "10",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -1438,6 +1863,7 @@
           "time": "09:15:00"
         },
         {
+          "rota_id": "10",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -1445,6 +1871,7 @@
           "time": "09:17:00"
         },
         {
+          "rota_id": "10",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -1452,6 +1879,7 @@
           "time": "09:19:00"
         },
         {
+          "rota_id": "10",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -1459,6 +1887,7 @@
           "time": "09:23:00"
         },
         {
+          "rota_id": "10",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -1466,6 +1895,7 @@
           "time": "09:26:00"
         },
         {
+          "rota_id": "10",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -1473,6 +1903,7 @@
           "time": "09:30:00"
         },
         {
+          "rota_id": "10",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1480,6 +1911,7 @@
           "time": "09:34:00"
         },
         {
+          "rota_id": "10",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1487,6 +1919,7 @@
           "time": "09:40:00"
         },
         {
+          "rota_id": "10",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -1494,6 +1927,7 @@
           "time": "09:45:00"
         },
         {
+          "rota_id": "10",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -1501,6 +1935,7 @@
           "time": "09:50:00"
         },
         {
+          "rota_id": "10",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1515,6 +1950,7 @@
       "way": "Av. 7 de Setembro/Integração",
       "stops": [
         {
+          "rota_id": "11",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1522,6 +1958,7 @@
           "time": "10:05:00"
         },
         {
+          "rota_id": "11",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -1529,6 +1966,7 @@
           "time": "10:10:00"
         },
         {
+          "rota_id": "11",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -1536,6 +1974,7 @@
           "time": "10:15:00"
         },
         {
+          "rota_id": "11",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1543,6 +1982,7 @@
           "time": "10:20:00"
         },
         {
+          "rota_id": "11",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1550,6 +1990,7 @@
           "time": "10:23:00"
         },
         {
+          "rota_id": "11",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -1557,6 +1998,7 @@
           "time": "10:26:00"
         },
         {
+          "rota_id": "11",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -1564,6 +2006,7 @@
           "time": "10:30:00"
         },
         {
+          "rota_id": "11",
           "id": 55,
           "name": "Joalina (Av. das Nações)",
           "lat": "-9.38515160",
@@ -1571,6 +2014,7 @@
           "time": "10:35:00"
         },
         {
+          "rota_id": "11",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -1578,6 +2022,7 @@
           "time": "10:38:00"
         },
         {
+          "rota_id": "11",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -1585,6 +2030,7 @@
           "time": "10:40:00"
         },
         {
+          "rota_id": "11",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -1592,6 +2038,7 @@
           "time": "10:45:00"
         },
         {
+          "rota_id": "11",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1599,6 +2046,7 @@
           "time": "10:48:00"
         },
         {
+          "rota_id": "11",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -1606,6 +2054,7 @@
           "time": "10:52:00"
         },
         {
+          "rota_id": "11",
           "id": 54,
           "name": "Caldinho 3D (Av. Integração)",
           "lat": "-9.38584600",
@@ -1613,6 +2062,7 @@
           "time": "10:56:00"
         },
         {
+          "rota_id": "11",
           "id": 56,
           "name": "Ponto de parada HAVAN",
           "lat": "-9.39110710",
@@ -1620,6 +2070,7 @@
           "time": "10:58:00"
         },
         {
+          "rota_id": "11",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1634,6 +2085,7 @@
       "way": "Batalhão PM-BA",
       "stops": [
         {
+          "rota_id": "12",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1641,6 +2093,7 @@
           "time": "11:00:00"
         },
         {
+          "rota_id": "12",
           "id": 2,
           "name": "Sanfra Motos",
           "lat": "-9.41283180",
@@ -1648,6 +2101,7 @@
           "time": "11:02:00"
         },
         {
+          "rota_id": "12",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -1655,6 +2109,7 @@
           "time": "11:10:00"
         },
         {
+          "rota_id": "12",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -1662,6 +2117,7 @@
           "time": "11:13:00"
         },
         {
+          "rota_id": "12",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -1669,6 +2125,7 @@
           "time": "11:15:00"
         },
         {
+          "rota_id": "12",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -1676,6 +2133,7 @@
           "time": "11:17:00"
         },
         {
+          "rota_id": "12",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -1683,6 +2141,7 @@
           "time": "11:22:00"
         },
         {
+          "rota_id": "12",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -1690,6 +2149,7 @@
           "time": "11:25:00"
         },
         {
+          "rota_id": "12",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -1697,6 +2157,7 @@
           "time": "11:27:00"
         },
         {
+          "rota_id": "12",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -1704,6 +2165,7 @@
           "time": "11:30:00"
         },
         {
+          "rota_id": "12",
           "id": 57,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
@@ -1711,6 +2173,7 @@
           "time": "11:32:00"
         },
         {
+          "rota_id": "12",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -1718,6 +2181,7 @@
           "time": "11:34:00"
         },
         {
+          "rota_id": "12",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -1725,6 +2189,7 @@
           "time": "11:40:00"
         },
         {
+          "rota_id": "12",
           "id": 25,
           "name": "CDF - Curso de Física (Av. das Nações)",
           "lat": "-9.38865310",
@@ -1732,6 +2197,7 @@
           "time": "11:42:00"
         },
         {
+          "rota_id": "12",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -1739,6 +2205,7 @@
           "time": "11:45:00"
         },
         {
+          "rota_id": "12",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1746,6 +2213,7 @@
           "time": "11:47:00"
         },
         {
+          "rota_id": "12",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -1753,6 +2221,7 @@
           "time": "11:50:00"
         },
         {
+          "rota_id": "12",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -1760,6 +2229,7 @@
           "time": "11:53:00"
         },
         {
+          "rota_id": "12",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -1767,6 +2237,7 @@
           "time": "12:03:00"
         },
         {
+          "rota_id": "12",
           "id": 29,
           "name": "Escola Estadual Paul Harris",
           "lat": "-9.39289110",
@@ -1774,6 +2245,7 @@
           "time": "12:06:00"
         },
         {
+          "rota_id": "12",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -1781,6 +2253,7 @@
           "time": "12:09:00"
         },
         {
+          "rota_id": "12",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1788,6 +2261,7 @@
           "time": "12:13:00"
         },
         {
+          "rota_id": "12",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1795,6 +2269,7 @@
           "time": "12:18:00"
         },
         {
+          "rota_id": "12",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -1802,6 +2277,7 @@
           "time": "12:21:00"
         },
         {
+          "rota_id": "12",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -1809,6 +2285,7 @@
           "time": "12:28:00"
         },
         {
+          "rota_id": "12",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -1823,6 +2300,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "13",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1830,6 +2308,7 @@
           "time": "12:20:00"
         },
         {
+          "rota_id": "13",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -1837,6 +2316,7 @@
           "time": "12:22:00"
         },
         {
+          "rota_id": "13",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -1844,6 +2324,7 @@
           "time": "12:25:00"
         },
         {
+          "rota_id": "13",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -1851,6 +2332,7 @@
           "time": "12:28:00"
         },
         {
+          "rota_id": "13",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1858,6 +2340,7 @@
           "time": "12:30:00"
         },
         {
+          "rota_id": "13",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -1865,6 +2348,7 @@
           "time": "12:32:00"
         },
         {
+          "rota_id": "13",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -1872,6 +2356,7 @@
           "time": "12:35:00"
         },
         {
+          "rota_id": "13",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -1879,6 +2364,7 @@
           "time": "12:36:00"
         },
         {
+          "rota_id": "13",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -1886,6 +2372,7 @@
           "time": "12:38:00"
         },
         {
+          "rota_id": "13",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -1893,6 +2380,7 @@
           "time": "12:40:00"
         },
         {
+          "rota_id": "13",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -1900,6 +2388,7 @@
           "time": "12:42:00"
         },
         {
+          "rota_id": "13",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -1907,6 +2396,7 @@
           "time": "12:45:00"
         },
         {
+          "rota_id": "13",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -1914,6 +2404,7 @@
           "time": "12:48:00"
         },
         {
+          "rota_id": "13",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -1921,6 +2412,7 @@
           "time": "12:50:00"
         },
         {
+          "rota_id": "13",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -1928,6 +2420,7 @@
           "time": "12:52:00"
         },
         {
+          "rota_id": "13",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -1935,6 +2428,7 @@
           "time": "12:54:00"
         },
         {
+          "rota_id": "13",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -1942,6 +2436,7 @@
           "time": "12:55:00"
         },
         {
+          "rota_id": "13",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -1949,6 +2444,7 @@
           "time": "12:57:00"
         },
         {
+          "rota_id": "13",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -1956,6 +2452,7 @@
           "time": "12:59:00"
         },
         {
+          "rota_id": "13",
           "id": 58,
           "name": "Plante Bem",
           "lat": "-9.39484610",
@@ -1963,6 +2460,7 @@
           "time": "13:05:00"
         },
         {
+          "rota_id": "13",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -1970,6 +2468,7 @@
           "time": "13:07:00"
         },
         {
+          "rota_id": "13",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -1977,6 +2476,7 @@
           "time": "13:10:00"
         },
         {
+          "rota_id": "13",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -1984,6 +2484,7 @@
           "time": "13:30:00"
         },
         {
+          "rota_id": "13",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -1998,6 +2499,7 @@
       "way": "Honorato Viana",
       "stops": [
         {
+          "rota_id": "14",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2005,6 +2507,7 @@
           "time": "12:00:00"
         },
         {
+          "rota_id": "14",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -2012,6 +2515,7 @@
           "time": "12:05:00"
         },
         {
+          "rota_id": "14",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -2019,6 +2523,7 @@
           "time": "12:12:00"
         },
         {
+          "rota_id": "14",
           "id": 29,
           "name": "Escola Estadual Paul Harris",
           "lat": "-9.39289110",
@@ -2026,6 +2531,7 @@
           "time": "12:15:00"
         },
         {
+          "rota_id": "14",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -2033,6 +2539,7 @@
           "time": "12:17:00"
         },
         {
+          "rota_id": "14",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2040,6 +2547,7 @@
           "time": "12:20:00"
         },
         {
+          "rota_id": "14",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2047,6 +2555,7 @@
           "time": "12:22:00"
         },
         {
+          "rota_id": "14",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2054,6 +2563,7 @@
           "time": "12:25:00"
         },
         {
+          "rota_id": "14",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2061,6 +2571,7 @@
           "time": "12:30:00"
         },
         {
+          "rota_id": "14",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2075,6 +2586,7 @@
       "way": "Batalhão PM-BA",
       "stops": [
         {
+          "rota_id": "15",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2082,6 +2594,7 @@
           "time": "12:35:00"
         },
         {
+          "rota_id": "15",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2089,6 +2602,7 @@
           "time": "12:40:00"
         },
         {
+          "rota_id": "15",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2096,6 +2610,7 @@
           "time": "12:45:00"
         },
         {
+          "rota_id": "15",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2103,6 +2618,7 @@
           "time": "12:48:00"
         },
         {
+          "rota_id": "15",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2110,6 +2626,7 @@
           "time": "12:53:00"
         },
         {
+          "rota_id": "15",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -2117,6 +2634,7 @@
           "time": "12:55:00"
         },
         {
+          "rota_id": "15",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -2124,6 +2642,7 @@
           "time": "12:56:00"
         },
         {
+          "rota_id": "15",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -2131,6 +2650,7 @@
           "time": "13:01:00"
         },
         {
+          "rota_id": "15",
           "id": 3,
           "name": "AABB",
           "lat": "-9.41733470",
@@ -2138,6 +2658,7 @@
           "time": "13:03:00"
         },
         {
+          "rota_id": "15",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -2145,6 +2666,7 @@
           "time": "13:05:00"
         },
         {
+          "rota_id": "15",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -2152,6 +2674,7 @@
           "time": "13:07:00"
         },
         {
+          "rota_id": "15",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -2159,6 +2682,7 @@
           "time": "13:10:00"
         },
         {
+          "rota_id": "15",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -2166,6 +2690,7 @@
           "time": "13:15:00"
         },
         {
+          "rota_id": "15",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -2173,6 +2698,7 @@
           "time": "13:18:00"
         },
         {
+          "rota_id": "15",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -2180,6 +2706,7 @@
           "time": "13:20:00"
         },
         {
+          "rota_id": "15",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -2187,6 +2714,7 @@
           "time": "13:23:00"
         },
         {
+          "rota_id": "15",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -2194,6 +2722,7 @@
           "time": "13:25:00"
         },
         {
+          "rota_id": "15",
           "id": 57,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
@@ -2201,6 +2730,7 @@
           "time": "13:30:00"
         },
         {
+          "rota_id": "15",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2215,6 +2745,7 @@
       "way": "Av. Nações",
       "stops": [
         {
+          "rota_id": "16",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2222,6 +2753,7 @@
           "time": "12:35:00"
         },
         {
+          "rota_id": "16",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2229,6 +2761,7 @@
           "time": "12:40:00"
         },
         {
+          "rota_id": "16",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2236,6 +2769,7 @@
           "time": "12:45:00"
         },
         {
+          "rota_id": "16",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2243,6 +2777,7 @@
           "time": "12:48:00"
         },
         {
+          "rota_id": "16",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2250,6 +2785,7 @@
           "time": "12:53:00"
         },
         {
+          "rota_id": "16",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -2257,6 +2793,7 @@
           "time": "12:56:00"
         },
         {
+          "rota_id": "16",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -2264,6 +2801,7 @@
           "time": "12:58:00"
         },
         {
+          "rota_id": "16",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -2271,6 +2809,7 @@
           "time": "13:03:00"
         },
         {
+          "rota_id": "16",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -2278,6 +2817,7 @@
           "time": "13:08:00"
         },
         {
+          "rota_id": "16",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -2285,6 +2825,7 @@
           "time": "13:10:00"
         },
         {
+          "rota_id": "16",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -2292,6 +2833,7 @@
           "time": "13:15:00"
         },
         {
+          "rota_id": "16",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -2299,6 +2841,7 @@
           "time": "13:18:00"
         },
         {
+          "rota_id": "16",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -2306,6 +2849,7 @@
           "time": "13:23:00"
         },
         {
+          "rota_id": "16",
           "id": 59,
           "name": "Nissan",
           "lat": "-9.39522760",
@@ -2313,6 +2857,7 @@
           "time": "13:25:00"
         },
         {
+          "rota_id": "16",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -2320,6 +2865,7 @@
           "time": "13:35:00"
         },
         {
+          "rota_id": "16",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2334,6 +2880,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "17",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2341,6 +2888,7 @@
           "time": "12:35:00"
         },
         {
+          "rota_id": "17",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2348,6 +2896,7 @@
           "time": "12:40:00"
         },
         {
+          "rota_id": "17",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2355,6 +2904,7 @@
           "time": "12:45:00"
         },
         {
+          "rota_id": "17",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2362,6 +2912,7 @@
           "time": "12:48:00"
         },
         {
+          "rota_id": "17",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2369,6 +2920,7 @@
           "time": "12:50:00"
         },
         {
+          "rota_id": "17",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -2376,6 +2928,7 @@
           "time": "12:54:00"
         },
         {
+          "rota_id": "17",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -2383,6 +2936,7 @@
           "time": "12:58:00"
         },
         {
+          "rota_id": "17",
           "id": 60,
           "name": "Ponto do CEAPE",
           "lat": "-9.38077730",
@@ -2390,6 +2944,7 @@
           "time": "13:00:00"
         },
         {
+          "rota_id": "17",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -2397,6 +2952,7 @@
           "time": "13:06:00"
         },
         {
+          "rota_id": "17",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -2404,6 +2960,7 @@
           "time": "13:08:00"
         },
         {
+          "rota_id": "17",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -2411,6 +2968,7 @@
           "time": "13:12:00"
         },
         {
+          "rota_id": "17",
           "id": 59,
           "name": "Nissan",
           "lat": "-9.39522760",
@@ -2418,6 +2976,7 @@
           "time": "13:15:00"
         },
         {
+          "rota_id": "17",
           "id": 34,
           "name": "Ministério Público",
           "lat": "-9.39705940",
@@ -2425,6 +2984,7 @@
           "time": "13:17:00"
         },
         {
+          "rota_id": "17",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -2432,6 +2992,7 @@
           "time": "13:20:00"
         },
         {
+          "rota_id": "17",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2446,6 +3007,7 @@
       "way": "Av. 7 Set",
       "stops": [
         {
+          "rota_id": "18",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2453,6 +3015,7 @@
           "time": "15:10:00"
         },
         {
+          "rota_id": "18",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2460,6 +3023,7 @@
           "time": "15:15:00"
         },
         {
+          "rota_id": "18",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2467,6 +3031,7 @@
           "time": "15:20:00"
         },
         {
+          "rota_id": "18",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2474,6 +3039,7 @@
           "time": "15:22:00"
         },
         {
+          "rota_id": "18",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2481,6 +3047,7 @@
           "time": "15:25:00"
         },
         {
+          "rota_id": "18",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -2488,6 +3055,7 @@
           "time": "15:29:00"
         },
         {
+          "rota_id": "18",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -2495,6 +3063,7 @@
           "time": "15:31:00"
         },
         {
+          "rota_id": "18",
           "id": 55,
           "name": "Joalina (Av. das Nações)",
           "lat": "-9.38515160",
@@ -2502,6 +3071,7 @@
           "time": "15:35:00"
         },
         {
+          "rota_id": "18",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -2509,6 +3079,7 @@
           "time": "15:40:00"
         },
         {
+          "rota_id": "18",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -2516,6 +3087,7 @@
           "time": "15:43:00"
         },
         {
+          "rota_id": "18",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -2523,6 +3095,7 @@
           "time": "15:45:00"
         },
         {
+          "rota_id": "18",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -2530,6 +3103,7 @@
           "time": "16:00:00"
         },
         {
+          "rota_id": "18",
           "id": 3,
           "name": "AABB",
           "lat": "-9.41733470",
@@ -2537,6 +3111,7 @@
           "time": "16:03:00"
         },
         {
+          "rota_id": "18",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -2544,6 +3119,7 @@
           "time": "16:08:00"
         },
         {
+          "rota_id": "18",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -2551,6 +3127,7 @@
           "time": "16:10:00"
         },
         {
+          "rota_id": "18",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -2558,6 +3135,7 @@
           "time": "16:12:00"
         },
         {
+          "rota_id": "18",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -2565,6 +3143,7 @@
           "time": "16:15:00"
         },
         {
+          "rota_id": "18",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -2572,6 +3151,7 @@
           "time": "16:17:00"
         },
         {
+          "rota_id": "18",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -2579,6 +3159,7 @@
           "time": "16:22:00"
         },
         {
+          "rota_id": "18",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -2586,6 +3167,7 @@
           "time": "16:25:00"
         },
         {
+          "rota_id": "18",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -2593,6 +3175,7 @@
           "time": "16:28:00"
         },
         {
+          "rota_id": "18",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -2600,6 +3183,7 @@
           "time": "16:33:00"
         },
         {
+          "rota_id": "18",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2614,6 +3198,7 @@
       "way": "Honorato Viana",
       "stops": [
         {
+          "rota_id": "19",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2621,6 +3206,7 @@
           "time": "15:10:00"
         },
         {
+          "rota_id": "19",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2628,6 +3214,7 @@
           "time": "15:15:00"
         },
         {
+          "rota_id": "19",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2635,6 +3222,7 @@
           "time": "15:18:00"
         },
         {
+          "rota_id": "19",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2642,6 +3230,7 @@
           "time": "15:23:00"
         },
         {
+          "rota_id": "19",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2649,6 +3238,7 @@
           "time": "15:25:00"
         },
         {
+          "rota_id": "19",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -2656,6 +3246,7 @@
           "time": "15:28:00"
         },
         {
+          "rota_id": "19",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -2663,6 +3254,7 @@
           "time": "15:30:00"
         },
         {
+          "rota_id": "19",
           "id": 61,
           "name": "Padaria Lisboa",
           "lat": "-9.38802270",
@@ -2670,6 +3262,7 @@
           "time": "15:33:00"
         },
         {
+          "rota_id": "19",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -2677,6 +3270,7 @@
           "time": "15:35:00"
         },
         {
+          "rota_id": "19",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -2684,6 +3278,7 @@
           "time": "15:38:00"
         },
         {
+          "rota_id": "19",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -2691,6 +3286,7 @@
           "time": "15:40:00"
         },
         {
+          "rota_id": "19",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -2698,6 +3294,7 @@
           "time": "15:42:00"
         },
         {
+          "rota_id": "19",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -2705,6 +3302,7 @@
           "time": "15:52:00"
         },
         {
+          "rota_id": "19",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2719,6 +3317,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "20",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2726,6 +3325,7 @@
           "time": "15:10:00"
         },
         {
+          "rota_id": "20",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -2733,6 +3333,7 @@
           "time": "15:15:00"
         },
         {
+          "rota_id": "20",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -2740,6 +3341,7 @@
           "time": "15:18:00"
         },
         {
+          "rota_id": "20",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2747,6 +3349,7 @@
           "time": "15:23:00"
         },
         {
+          "rota_id": "20",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2754,6 +3357,7 @@
           "time": "15:25:00"
         },
         {
+          "rota_id": "20",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -2761,6 +3365,7 @@
           "time": "15:30:00"
         },
         {
+          "rota_id": "20",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -2768,6 +3373,7 @@
           "time": "15:33:00"
         },
         {
+          "rota_id": "20",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -2775,6 +3381,7 @@
           "time": "15:45:00"
         },
         {
+          "rota_id": "20",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -2782,6 +3389,7 @@
           "time": "15:48:00"
         },
         {
+          "rota_id": "20",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -2789,6 +3397,7 @@
           "time": "15:50:00"
         },
         {
+          "rota_id": "20",
           "id": 62,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
@@ -2796,6 +3405,7 @@
           "time": "15:52:00"
         },
         {
+          "rota_id": "20",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -2803,6 +3413,7 @@
           "time": "15:55:00"
         },
         {
+          "rota_id": "20",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -2810,6 +3421,7 @@
           "time": "16:00:00"
         },
         {
+          "rota_id": "20",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2824,6 +3436,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "21",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2831,6 +3444,7 @@
           "time": "16:10:00"
         },
         {
+          "rota_id": "21",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -2838,6 +3452,7 @@
           "time": "16:13:00"
         },
         {
+          "rota_id": "21",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -2845,6 +3460,7 @@
           "time": "16:18:00"
         },
         {
+          "rota_id": "21",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -2852,6 +3468,7 @@
           "time": "16:20:00"
         },
         {
+          "rota_id": "21",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -2859,6 +3476,7 @@
           "time": "16:25:00"
         },
         {
+          "rota_id": "21",
           "id": 63,
           "name": "Lateral Cemitério Campo das Flores - Centro",
           "lat": "-9.39472390",
@@ -2866,6 +3484,7 @@
           "time": "16:35:00"
         },
         {
+          "rota_id": "21",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -2873,6 +3492,7 @@
           "time": "16:38:00"
         },
         {
+          "rota_id": "21",
           "id": 60,
           "name": "Ponto do CEAPE",
           "lat": "-9.38077730",
@@ -2880,6 +3500,7 @@
           "time": "16:41:00"
         },
         {
+          "rota_id": "21",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -2887,6 +3508,7 @@
           "time": "16:45:00"
         },
         {
+          "rota_id": "21",
           "id": 64,
           "name": "Aldiegas Peças e Serviços",
           "lat": "-9.37677780",
@@ -2894,6 +3516,7 @@
           "time": "16:48:00"
         },
         {
+          "rota_id": "21",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -2901,6 +3524,7 @@
           "time": "16:49:00"
         },
         {
+          "rota_id": "21",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -2908,6 +3532,7 @@
           "time": "16:50:00"
         },
         {
+          "rota_id": "21",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -2915,6 +3540,7 @@
           "time": "17:00:00"
         },
         {
+          "rota_id": "21",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -2929,6 +3555,7 @@
       "way": "Batalhão PM-BA/Univasf Centro",
       "stops": [
         {
+          "rota_id": "22",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -2936,6 +3563,7 @@
           "time": "17:00:00"
         },
         {
+          "rota_id": "22",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -2943,6 +3571,7 @@
           "time": "17:05:00"
         },
         {
+          "rota_id": "22",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -2950,6 +3579,7 @@
           "time": "17:10:00"
         },
         {
+          "rota_id": "22",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -2957,6 +3587,7 @@
           "time": "17:15:00"
         },
         {
+          "rota_id": "22",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -2964,6 +3595,7 @@
           "time": "17:18:00"
         },
         {
+          "rota_id": "22",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -2971,6 +3603,7 @@
           "time": "17:21:00"
         },
         {
+          "rota_id": "22",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -2978,6 +3611,7 @@
           "time": "17:24:00"
         },
         {
+          "rota_id": "22",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -2985,6 +3619,7 @@
           "time": "17:28:00"
         },
         {
+          "rota_id": "22",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -2992,6 +3627,7 @@
           "time": "17:30:00"
         },
         {
+          "rota_id": "22",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -2999,6 +3635,7 @@
           "time": "17:35:00"
         },
         {
+          "rota_id": "22",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3006,6 +3643,7 @@
           "time": "17:45:00"
         },
         {
+          "rota_id": "22",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3020,6 +3658,7 @@
       "way": "Av. Honorato/Batalhão-BA",
       "stops": [
         {
+          "rota_id": "23",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3027,6 +3666,7 @@
           "time": "17:15:00"
         },
         {
+          "rota_id": "23",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3034,6 +3674,7 @@
           "time": "17:20:00"
         },
         {
+          "rota_id": "23",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3041,6 +3682,7 @@
           "time": "17:23:00"
         },
         {
+          "rota_id": "23",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3048,6 +3690,7 @@
           "time": "17:26:00"
         },
         {
+          "rota_id": "23",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3055,6 +3698,7 @@
           "time": "17:30:00"
         },
         {
+          "rota_id": "23",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -3062,6 +3706,7 @@
           "time": "17:35:00"
         },
         {
+          "rota_id": "23",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -3069,6 +3714,7 @@
           "time": "17:38:00"
         },
         {
+          "rota_id": "23",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -3076,6 +3722,7 @@
           "time": "17:48:00"
         },
         {
+          "rota_id": "23",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -3083,6 +3730,7 @@
           "time": "17:53:00"
         },
         {
+          "rota_id": "23",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -3090,6 +3738,7 @@
           "time": "17:58:00"
         },
         {
+          "rota_id": "23",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -3097,6 +3746,7 @@
           "time": "18:03:00"
         },
         {
+          "rota_id": "23",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -3104,6 +3754,7 @@
           "time": "18:05:00"
         },
         {
+          "rota_id": "23",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -3111,6 +3762,7 @@
           "time": "18:10:00"
         },
         {
+          "rota_id": "23",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -3118,6 +3770,7 @@
           "time": "18:13:00"
         },
         {
+          "rota_id": "23",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -3125,6 +3778,7 @@
           "time": "18:15:00"
         },
         {
+          "rota_id": "23",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -3132,6 +3786,7 @@
           "time": "18:18:00"
         },
         {
+          "rota_id": "23",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -3139,6 +3794,7 @@
           "time": "18:20:00"
         },
         {
+          "rota_id": "23",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3153,6 +3809,7 @@
       "way": "Honorato Viana",
       "stops": [
         {
+          "rota_id": "24",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3160,6 +3817,7 @@
           "time": "17:15:00"
         },
         {
+          "rota_id": "24",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3167,6 +3825,7 @@
           "time": "17:20:00"
         },
         {
+          "rota_id": "24",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3174,6 +3833,7 @@
           "time": "17:23:00"
         },
         {
+          "rota_id": "24",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3181,6 +3841,7 @@
           "time": "17:25:00"
         },
         {
+          "rota_id": "24",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3188,6 +3849,7 @@
           "time": "17:29:00"
         },
         {
+          "rota_id": "24",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -3195,6 +3857,7 @@
           "time": "17:33:00"
         },
         {
+          "rota_id": "24",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -3202,6 +3865,7 @@
           "time": "17:35:00"
         },
         {
+          "rota_id": "24",
           "id": 61,
           "name": "Padaria Lisboa",
           "lat": "-9.38802270",
@@ -3209,6 +3873,7 @@
           "time": "17:38:00"
         },
         {
+          "rota_id": "24",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -3216,6 +3881,7 @@
           "time": "17:42:00"
         },
         {
+          "rota_id": "24",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -3223,6 +3889,7 @@
           "time": "17:45:00"
         },
         {
+          "rota_id": "24",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -3230,6 +3897,7 @@
           "time": "17:48:00"
         },
         {
+          "rota_id": "24",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -3237,6 +3905,7 @@
           "time": "17:50:00"
         },
         {
+          "rota_id": "24",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3244,6 +3913,7 @@
           "time": "17:55:00"
         },
         {
+          "rota_id": "24",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -3251,6 +3921,7 @@
           "time": "18:10:00"
         },
         {
+          "rota_id": "24",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3265,6 +3936,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "25",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3272,6 +3944,7 @@
           "time": "17:15:00"
         },
         {
+          "rota_id": "25",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3279,6 +3952,7 @@
           "time": "17:20:00"
         },
         {
+          "rota_id": "25",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3286,6 +3960,7 @@
           "time": "17:23:00"
         },
         {
+          "rota_id": "25",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3293,6 +3968,7 @@
           "time": "17:26:00"
         },
         {
+          "rota_id": "25",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3300,6 +3976,7 @@
           "time": "17:30:00"
         },
         {
+          "rota_id": "25",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -3307,6 +3984,7 @@
           "time": "17:33:00"
         },
         {
+          "rota_id": "25",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -3314,6 +3992,7 @@
           "time": "17:35:00"
         },
         {
+          "rota_id": "25",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -3321,6 +4000,7 @@
           "time": "17:38:00"
         },
         {
+          "rota_id": "25",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -3328,6 +4008,7 @@
           "time": "17:40:00"
         },
         {
+          "rota_id": "25",
           "id": 62,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
@@ -3335,6 +4016,7 @@
           "time": "17:45:00"
         },
         {
+          "rota_id": "25",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -3342,6 +4024,7 @@
           "time": "17:50:00"
         },
         {
+          "rota_id": "25",
           "id": 59,
           "name": "Nissan",
           "lat": "-9.39522760",
@@ -3349,6 +4032,7 @@
           "time": "17:53:00"
         },
         {
+          "rota_id": "25",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3356,6 +4040,7 @@
           "time": "17:56:00"
         },
         {
+          "rota_id": "25",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -3363,6 +4048,7 @@
           "time": "18:07:00"
         },
         {
+          "rota_id": "25",
           "id": 3,
           "name": "AABB",
           "lat": "-9.41733470",
@@ -3370,6 +4056,7 @@
           "time": "18:10:00"
         },
         {
+          "rota_id": "25",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3384,6 +4071,7 @@
       "way": "Av. 7 de Setembro/Batalhão-PM",
       "stops": [
         {
+          "rota_id": "26",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3391,6 +4079,7 @@
           "time": "17:15:00"
         },
         {
+          "rota_id": "26",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3398,6 +4087,7 @@
           "time": "17:20:00"
         },
         {
+          "rota_id": "26",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3405,6 +4095,7 @@
           "time": "17:23:00"
         },
         {
+          "rota_id": "26",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3412,6 +4103,7 @@
           "time": "17:26:00"
         },
         {
+          "rota_id": "26",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3419,6 +4111,7 @@
           "time": "17:30:00"
         },
         {
+          "rota_id": "26",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -3426,6 +4119,7 @@
           "time": "17:33:00"
         },
         {
+          "rota_id": "26",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -3433,6 +4127,7 @@
           "time": "17:35:00"
         },
         {
+          "rota_id": "26",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -3440,6 +4135,7 @@
           "time": "17:38:00"
         },
         {
+          "rota_id": "26",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -3447,6 +4143,7 @@
           "time": "17:40:00"
         },
         {
+          "rota_id": "26",
           "id": 62,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
@@ -3454,6 +4151,7 @@
           "time": "17:45:00"
         },
         {
+          "rota_id": "26",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -3461,6 +4159,7 @@
           "time": "17:50:00"
         },
         {
+          "rota_id": "26",
           "id": 59,
           "name": "Nissan",
           "lat": "-9.39522760",
@@ -3468,6 +4167,7 @@
           "time": "17:53:00"
         },
         {
+          "rota_id": "26",
           "id": 34,
           "name": "Ministério Público",
           "lat": "-9.39705940",
@@ -3475,6 +4175,7 @@
           "time": "17:55:00"
         },
         {
+          "rota_id": "26",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3482,6 +4183,7 @@
           "time": "17:56:00"
         },
         {
+          "rota_id": "26",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -3489,6 +4191,7 @@
           "time": "18:13:00"
         },
         {
+          "rota_id": "26",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -3496,6 +4199,7 @@
           "time": "18:18:00"
         },
         {
+          "rota_id": "26",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -3503,6 +4207,7 @@
           "time": "18:23:00"
         },
         {
+          "rota_id": "26",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -3510,6 +4215,7 @@
           "time": "18:25:00"
         },
         {
+          "rota_id": "26",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -3517,6 +4223,7 @@
           "time": "18:30:00"
         },
         {
+          "rota_id": "26",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -3524,6 +4231,7 @@
           "time": "18:33:00"
         },
         {
+          "rota_id": "26",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -3531,6 +4239,7 @@
           "time": "18:35:00"
         },
         {
+          "rota_id": "26",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -3538,6 +4247,7 @@
           "time": "18:35:00"
         },
         {
+          "rota_id": "26",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -3545,6 +4255,7 @@
           "time": "18:40:00"
         },
         {
+          "rota_id": "26",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3559,6 +4270,7 @@
       "way": "Honorato/Batalhão PM-BA",
       "stops": [
         {
+          "rota_id": "27",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3566,6 +4278,7 @@
           "time": "18:15:00"
         },
         {
+          "rota_id": "27",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3573,6 +4286,7 @@
           "time": "18:20:00"
         },
         {
+          "rota_id": "27",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3580,6 +4294,7 @@
           "time": "18:23:00"
         },
         {
+          "rota_id": "27",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3587,6 +4302,7 @@
           "time": "18:25:00"
         },
         {
+          "rota_id": "27",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3594,6 +4310,7 @@
           "time": "18:30:00"
         },
         {
+          "rota_id": "27",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -3601,6 +4318,7 @@
           "time": "18:34:00"
         },
         {
+          "rota_id": "27",
           "id": 29,
           "name": "Escola Estadual Paul Harris",
           "lat": "-9.39289110",
@@ -3608,6 +4326,7 @@
           "time": "18:37:00"
         },
         {
+          "rota_id": "27",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -3615,6 +4334,7 @@
           "time": "18:40:00"
         },
         {
+          "rota_id": "27",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3622,6 +4342,7 @@
           "time": "18:42:00"
         },
         {
+          "rota_id": "27",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -3629,6 +4350,7 @@
           "time": "18:52:00"
         },
         {
+          "rota_id": "27",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -3636,6 +4358,7 @@
           "time": "18:55:00"
         },
         {
+          "rota_id": "27",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -3643,6 +4366,7 @@
           "time": "18:57:00"
         },
         {
+          "rota_id": "27",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -3650,6 +4374,7 @@
           "time": "18:59:00"
         },
         {
+          "rota_id": "27",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -3657,6 +4382,7 @@
           "time": "18:02:00"
         },
         {
+          "rota_id": "27",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -3664,6 +4390,7 @@
           "time": "18:04:00"
         },
         {
+          "rota_id": "27",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -3671,6 +4398,7 @@
           "time": "18:07:00"
         },
         {
+          "rota_id": "27",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -3678,6 +4406,7 @@
           "time": "19:10:00"
         },
         {
+          "rota_id": "27",
           "id": 57,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
@@ -3685,6 +4414,7 @@
           "time": "19:15:00"
         },
         {
+          "rota_id": "27",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3699,6 +4429,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "28",
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
@@ -3706,6 +4437,7 @@
           "time": "18:15:00"
         },
         {
+          "rota_id": "28",
           "id": 21,
           "name": "IF Sertão",
           "lat": "-9.36244600",
@@ -3713,6 +4445,7 @@
           "time": "18:20:00"
         },
         {
+          "rota_id": "28",
           "id": 20,
           "name": "Entrada do Bairro Quati",
           "lat": "-9.36528310",
@@ -3720,6 +4453,7 @@
           "time": "18:23:00"
         },
         {
+          "rota_id": "28",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -3727,6 +4461,7 @@
           "time": "18:27:00"
         },
         {
+          "rota_id": "28",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -3734,6 +4469,7 @@
           "time": "18:30:00"
         },
         {
+          "rota_id": "28",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -3741,6 +4477,7 @@
           "time": "18:35:00"
         },
         {
+          "rota_id": "28",
           "id": 16,
           "name": "Delegacia do Ouro Preto",
           "lat": "-9.38316920",
@@ -3748,6 +4485,7 @@
           "time": "18:38:00"
         },
         {
+          "rota_id": "28",
           "id": 65,
           "name": "Espacial/Palhoça",
           "lat": "-9.38126500",
@@ -3755,6 +4493,7 @@
           "time": "18:40:00"
         },
         {
+          "rota_id": "28",
           "id": 31,
           "name": "Canteiro de Obras (Av. 7 de Set)",
           "lat": "-9.37615900",
@@ -3762,6 +4501,7 @@
           "time": "18:42:00"
         },
         {
+          "rota_id": "28",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -3769,6 +4509,7 @@
           "time": "18:48:00"
         },
         {
+          "rota_id": "28",
           "id": 62,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
@@ -3776,6 +4517,7 @@
           "time": "18:50:00"
         },
         {
+          "rota_id": "28",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -3783,6 +4525,7 @@
           "time": "18:53:00"
         },
         {
+          "rota_id": "28",
           "id": 59,
           "name": "Nissan",
           "lat": "-9.39522760",
@@ -3790,6 +4533,7 @@
           "time": "18:55:00"
         },
         {
+          "rota_id": "28",
           "id": 34,
           "name": "Ministério Público",
           "lat": "-9.39705940",
@@ -3797,6 +4541,7 @@
           "time": "18:57:00"
         },
         {
+          "rota_id": "28",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3804,6 +4549,7 @@
           "time": "19:00:00"
         },
         {
+          "rota_id": "28",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -3811,6 +4557,7 @@
           "time": "19:10:00"
         },
         {
+          "rota_id": "28",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3825,6 +4572,7 @@
       "way": "7/Honorato/Nilo Coelho",
       "stops": [
         {
+          "rota_id": "29",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -3832,6 +4580,7 @@
           "time": "18:30:00"
         },
         {
+          "rota_id": "29",
           "id": 2,
           "name": "Sanfra Motos",
           "lat": "-9.41283180",
@@ -3839,6 +4588,7 @@
           "time": "18:32:00"
         },
         {
+          "rota_id": "29",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -3846,6 +4596,7 @@
           "time": "18:36:00"
         },
         {
+          "rota_id": "29",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -3853,6 +4604,7 @@
           "time": "18:38:00"
         },
         {
+          "rota_id": "29",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -3860,6 +4612,7 @@
           "time": "18:40:00"
         },
         {
+          "rota_id": "29",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -3867,6 +4620,7 @@
           "time": "18:43:00"
         },
         {
+          "rota_id": "29",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -3874,6 +4628,7 @@
           "time": "18:45:00"
         },
         {
+          "rota_id": "29",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -3881,6 +4636,7 @@
           "time": "18:48:00"
         },
         {
+          "rota_id": "29",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -3888,6 +4644,7 @@
           "time": "18:50:00"
         },
         {
+          "rota_id": "29",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -3895,6 +4652,7 @@
           "time": "18:52:00"
         },
         {
+          "rota_id": "29",
           "id": 57,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
@@ -3902,6 +4660,7 @@
           "time": "18:55:00"
         },
         {
+          "rota_id": "29",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -3909,6 +4668,7 @@
           "time": "19:00:00"
         },
         {
+          "rota_id": "29",
           "id": 66,
           "name": "SAF",
           "lat": "-9.41717240",
@@ -3916,6 +4676,7 @@
           "time": "19:05:00"
         },
         {
+          "rota_id": "29",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -3923,6 +4684,7 @@
           "time": "19:07:00"
         },
         {
+          "rota_id": "29",
           "id": 67,
           "name": "Sindicato Rural dos Trabalhadores",
           "lat": "-9.38865310",
@@ -3930,6 +4692,7 @@
           "time": "19:10:00"
         },
         {
+          "rota_id": "29",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -3937,6 +4700,7 @@
           "time": "19:13:00"
         },
         {
+          "rota_id": "29",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -3944,6 +4708,7 @@
           "time": "19:16:00"
         },
         {
+          "rota_id": "29",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -3951,6 +4716,7 @@
           "time": "19:18:00"
         },
         {
+          "rota_id": "29",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -3958,6 +4724,7 @@
           "time": "19:20:00"
         },
         {
+          "rota_id": "29",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -3965,6 +4732,7 @@
           "time": "19:22:00"
         },
         {
+          "rota_id": "29",
           "id": 49,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
@@ -3972,6 +4740,7 @@
           "time": "19:24:00"
         },
         {
+          "rota_id": "29",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -3979,6 +4748,7 @@
           "time": "19:26:00"
         },
         {
+          "rota_id": "29",
           "id": 32,
           "name": "Grande Rio Veículos",
           "lat": "-9.38568920",
@@ -3986,6 +4756,7 @@
           "time": "19:30:00"
         },
         {
+          "rota_id": "29",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -3993,6 +4764,7 @@
           "time": "19:32:00"
         },
         {
+          "rota_id": "29",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -4000,6 +4772,7 @@
           "time": "19:35:00"
         },
         {
+          "rota_id": "29",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -4007,6 +4780,7 @@
           "time": "19:38:00"
         },
         {
+          "rota_id": "29",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -4014,6 +4788,7 @@
           "time": "19:40:00"
         },
         {
+          "rota_id": "29",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -4021,6 +4796,7 @@
           "time": "19:42:00"
         },
         {
+          "rota_id": "29",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -4028,6 +4804,7 @@
           "time": "19:44:00"
         },
         {
+          "rota_id": "29",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -4035,6 +4812,7 @@
           "time": "19:47:00"
         },
         {
+          "rota_id": "29",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -4042,6 +4820,7 @@
           "time": "19:49:00"
         },
         {
+          "rota_id": "29",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -4049,6 +4828,7 @@
           "time": "19:52:00"
         },
         {
+          "rota_id": "29",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -4056,6 +4836,7 @@
           "time": "19:58:00"
         },
         {
+          "rota_id": "29",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -4063,6 +4844,7 @@
           "time": "20:03:00"
         },
         {
+          "rota_id": "29",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -4070,6 +4852,7 @@
           "time": "20:05:00"
         },
         {
+          "rota_id": "29",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -4077,6 +4860,7 @@
           "time": "20:07:00"
         },
         {
+          "rota_id": "29",
           "id": 58,
           "name": "Plante Bem",
           "lat": "-9.39484610",
@@ -4084,6 +4868,7 @@
           "time": "20:10:00"
         },
         {
+          "rota_id": "29",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -4091,6 +4876,7 @@
           "time": "20:13:00"
         },
         {
+          "rota_id": "29",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -4098,6 +4884,7 @@
           "time": "20:15:00"
         },
         {
+          "rota_id": "29",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -4105,6 +4892,7 @@
           "time": "20:25:00"
         },
         {
+          "rota_id": "29",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4119,6 +4907,7 @@
       "way": "Honorato/Integração",
       "stops": [
         {
+          "rota_id": "30",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4126,6 +4915,7 @@
           "time": "21:15:00"
         },
         {
+          "rota_id": "30",
           "id": 2,
           "name": "Sanfra Motos",
           "lat": "-9.41283180",
@@ -4133,6 +4923,7 @@
           "time": "21:17:00"
         },
         {
+          "rota_id": "30",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -4140,6 +4931,7 @@
           "time": "21:20:00"
         },
         {
+          "rota_id": "30",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -4147,6 +4939,7 @@
           "time": "21:25:00"
         },
         {
+          "rota_id": "30",
           "id": 57,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
@@ -4154,6 +4947,7 @@
           "time": "21:28:00"
         },
         {
+          "rota_id": "30",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -4161,6 +4955,7 @@
           "time": "21:30:00"
         },
         {
+          "rota_id": "30",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4175,6 +4970,7 @@
       "way": "Av. 7 de Setembro",
       "stops": [
         {
+          "rota_id": "31",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4182,6 +4978,7 @@
           "time": "21:15:00"
         },
         {
+          "rota_id": "31",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -4189,6 +4986,7 @@
           "time": "21:20:00"
         },
         {
+          "rota_id": "31",
           "id": 66,
           "name": "SAF",
           "lat": "-9.41717240",
@@ -4196,6 +4994,7 @@
           "time": "21:30:00"
         },
         {
+          "rota_id": "31",
           "id": 24,
           "name": "Rodoviária - Petrolina (Av. das Nações)",
           "lat": "-9.39119750",
@@ -4203,6 +5002,7 @@
           "time": "21:32:00"
         },
         {
+          "rota_id": "31",
           "id": 67,
           "name": "Sindicato Rural dos Trabalhadores",
           "lat": "-9.38865310",
@@ -4210,6 +5010,7 @@
           "time": "21:33:00"
         },
         {
+          "rota_id": "31",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -4217,6 +5018,7 @@
           "time": "21:35:00"
         },
         {
+          "rota_id": "31",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -4224,6 +5026,7 @@
           "time": "21:38:00"
         },
         {
+          "rota_id": "31",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -4231,6 +5034,7 @@
           "time": "21:40:00"
         },
         {
+          "rota_id": "31",
           "id": 26,
           "name": "Caixa d’água Compesa",
           "lat": "-9.39055300",
@@ -4238,6 +5042,7 @@
           "time": "21:43:00"
         },
         {
+          "rota_id": "31",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -4252,6 +5057,7 @@
       "way": "Batalhão-PM/Nilo Coelho/7 Set/Honorato",
       "stops": [
         {
+          "rota_id": "32",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4259,6 +5065,7 @@
           "time": "22:15:00"
         },
         {
+          "rota_id": "32",
           "id": 2,
           "name": "Sanfra Motos",
           "lat": "-9.41283180",
@@ -4266,6 +5073,7 @@
           "time": "22:16:00"
         },
         {
+          "rota_id": "32",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -4273,6 +5081,7 @@
           "time": "22:18:00"
         },
         {
+          "rota_id": "32",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -4280,6 +5089,7 @@
           "time": "22:19:00"
         },
         {
+          "rota_id": "32",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -4287,6 +5097,7 @@
           "time": "22:21:00"
         },
         {
+          "rota_id": "32",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -4294,6 +5105,7 @@
           "time": "22:22:00"
         },
         {
+          "rota_id": "32",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -4301,6 +5113,7 @@
           "time": "22:25:00"
         },
         {
+          "rota_id": "32",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -4308,6 +5121,7 @@
           "time": "22:26:00"
         },
         {
+          "rota_id": "32",
           "id": 38,
           "name": "Corpo de Bombeiros Petrolina",
           "lat": "-9.39265530",
@@ -4315,6 +5129,7 @@
           "time": "22:30:00"
         },
         {
+          "rota_id": "32",
           "id": 37,
           "name": "Praça da Ambiental (Av. Nilo Coelho)",
           "lat": "-9.38974980",
@@ -4322,6 +5137,7 @@
           "time": "22:31:00"
         },
         {
+          "rota_id": "32",
           "id": 28,
           "name": "Praça da Sementeira",
           "lat": "-9.38586010",
@@ -4329,6 +5145,7 @@
           "time": "22:32:00"
         },
         {
+          "rota_id": "32",
           "id": 35,
           "name": "INCRA (Av. Integração)",
           "lat": "-9.38400760",
@@ -4336,6 +5153,7 @@
           "time": "22:34:00"
         },
         {
+          "rota_id": "32",
           "id": 27,
           "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
           "lat": "-9.38285490",
@@ -4343,6 +5161,7 @@
           "time": "22:36:00"
         },
         {
+          "rota_id": "32",
           "id": 48,
           "name": "Park Mundo da Lua (Av. Integração)",
           "lat": "-9.38537350",
@@ -4350,6 +5169,7 @@
           "time": "22:37:00"
         },
         {
+          "rota_id": "32",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -4357,6 +5177,7 @@
           "time": "22:40:00"
         },
         {
+          "rota_id": "32",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -4364,6 +5185,7 @@
           "time": "22:43:00"
         },
         {
+          "rota_id": "32",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -4371,6 +5193,7 @@
           "time": "22:46:00"
         },
         {
+          "rota_id": "32",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -4378,6 +5201,7 @@
           "time": "22:48:00"
         },
         {
+          "rota_id": "32",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -4385,6 +5209,7 @@
           "time": "22:49:00"
         },
         {
+          "rota_id": "32",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -4392,6 +5217,7 @@
           "time": "22:51:00"
         },
         {
+          "rota_id": "32",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -4399,6 +5225,7 @@
           "time": "22:53:00"
         },
         {
+          "rota_id": "32",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -4406,6 +5233,7 @@
           "time": "22:55:00"
         },
         {
+          "rota_id": "32",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -4413,6 +5241,7 @@
           "time": "22:57:00"
         },
         {
+          "rota_id": "32",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -4420,6 +5249,7 @@
           "time": "23:00:00"
         },
         {
+          "rota_id": "32",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -4427,6 +5257,7 @@
           "time": "23:02:00"
         },
         {
+          "rota_id": "32",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -4434,6 +5265,7 @@
           "time": "23:03:00"
         },
         {
+          "rota_id": "32",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -4441,6 +5273,7 @@
           "time": "23:05:00"
         },
         {
+          "rota_id": "32",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -4448,6 +5281,7 @@
           "time": "23:07:00"
         },
         {
+          "rota_id": "32",
           "id": 58,
           "name": "Plante Bem",
           "lat": "-9.39484610",
@@ -4455,6 +5289,7 @@
           "time": "23:10:00"
         },
         {
+          "rota_id": "32",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -4462,6 +5297,7 @@
           "time": "23:12:00"
         },
         {
+          "rota_id": "32",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -4469,6 +5305,7 @@
           "time": "23:15:00"
         },
         {
+          "rota_id": "32",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
@@ -4483,6 +5320,7 @@
       "way": "Av. 7 de Setembro/Honorato/Batalhão-PM",
       "stops": [
         {
+          "rota_id": "33",
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
@@ -4490,6 +5328,7 @@
           "time": "22:15:00"
         },
         {
+          "rota_id": "33",
           "id": 49,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
@@ -4497,6 +5336,7 @@
           "time": "22:17:00"
         },
         {
+          "rota_id": "33",
           "id": 33,
           "name": "Supermercado G Barbosa",
           "lat": "-9.39006120",
@@ -4504,6 +5344,7 @@
           "time": "22:19:00"
         },
         {
+          "rota_id": "33",
           "id": 50,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
@@ -4511,6 +5352,7 @@
           "time": "22:22:00"
         },
         {
+          "rota_id": "33",
           "id": 14,
           "name": "Mecânica Bahia",
           "lat": "-9.37557870",
@@ -4518,6 +5360,7 @@
           "time": "22:25:00"
         },
         {
+          "rota_id": "33",
           "id": 51,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
@@ -4525,6 +5368,7 @@
           "time": "22:27:00"
         },
         {
+          "rota_id": "33",
           "id": 15,
           "name": "Rádio Grande Rio",
           "lat": "-9.37882730",
@@ -4532,6 +5376,7 @@
           "time": "22:30:00"
         },
         {
+          "rota_id": "33",
           "id": 52,
           "name": "Vila Militar",
           "lat": "-9.38251830",
@@ -4539,6 +5384,7 @@
           "time": "22:33:00"
         },
         {
+          "rota_id": "33",
           "id": 17,
           "name": "Posto São Francisco",
           "lat": "-9.38559880",
@@ -4546,6 +5392,7 @@
           "time": "22:35:00"
         },
         {
+          "rota_id": "33",
           "id": 18,
           "name": "Feira da Cohab Massangano (Jardim Amazonas)",
           "lat": "-9.37979310",
@@ -4553,6 +5400,7 @@
           "time": "22:38:00"
         },
         {
+          "rota_id": "33",
           "id": 19,
           "name": "SAMU (Jardim Amazonas)",
           "lat": "-9.37813930",
@@ -4560,6 +5408,7 @@
           "time": "22:40:00"
         },
         {
+          "rota_id": "33",
           "id": 47,
           "name": "Distribuidora COMPARE",
           "lat": "-9.37477490",
@@ -4567,6 +5416,7 @@
           "time": "22:42:00"
         },
         {
+          "rota_id": "33",
           "id": 46,
           "name": "Disk Auto Elétrico",
           "lat": "-9.38295470",
@@ -4574,6 +5424,7 @@
           "time": "22:46:00"
         },
         {
+          "rota_id": "33",
           "id": 45,
           "name": "Everest Motos",
           "lat": "-9.38392680",
@@ -4581,6 +5432,7 @@
           "time": "22:49:00"
         },
         {
+          "rota_id": "33",
           "id": 44,
           "name": "Posto Entrada do Rio Corrente (ALE)",
           "lat": "-9.39350540",
@@ -4588,6 +5440,7 @@
           "time": "22:51:00"
         },
         {
+          "rota_id": "33",
           "id": 43,
           "name": "Rotatória da Tapera",
           "lat": "-9.39190010",
@@ -4595,6 +5448,7 @@
           "time": "22:53:00"
         },
         {
+          "rota_id": "33",
           "id": 58,
           "name": "Plante Bem",
           "lat": "-9.39484610",
@@ -4602,6 +5456,7 @@
           "time": "22:55:00"
         },
         {
+          "rota_id": "33",
           "id": 30,
           "name": "Zé Nilton Automóveis",
           "lat": "-9.39160510",
@@ -4609,6 +5464,7 @@
           "time": "22:59:00"
         },
         {
+          "rota_id": "33",
           "id": 22,
           "name": "Del Veículos",
           "lat": "-9.39416300",
@@ -4616,6 +5472,7 @@
           "time": "23:02:00"
         },
         {
+          "rota_id": "33",
           "id": 39,
           "name": "Supermercado G Barbosa - Juazeiro",
           "lat": "-9.42170100",
@@ -4623,6 +5480,7 @@
           "time": "23:12:00"
         },
         {
+          "rota_id": "33",
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.41733470",
@@ -4630,6 +5488,7 @@
           "time": "23:17:00"
         },
         {
+          "rota_id": "33",
           "id": 5,
           "name": "Farmácia Popular (João XXIII)",
           "lat": "-9.43418400",
@@ -4637,6 +5496,7 @@
           "time": "23:19:00"
         },
         {
+          "rota_id": "33",
           "id": 6,
           "name": "Verdão",
           "lat": "-9.44239990",
@@ -4644,6 +5504,7 @@
           "time": "23:21:00"
         },
         {
+          "rota_id": "33",
           "id": 7,
           "name": "Ao Lado do Batalhão da PM",
           "lat": "-9.44207000",
@@ -4651,6 +5512,7 @@
           "time": "23:23:00"
         },
         {
+          "rota_id": "33",
           "id": 8,
           "name": "Posto Raul Lins (Castelo Branco)",
           "lat": "-9.43859400",
@@ -4658,6 +5520,7 @@
           "time": "23:25:00"
         },
         {
+          "rota_id": "33",
           "id": 9,
           "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
           "lat": "-9.43117310",
@@ -4665,6 +5528,7 @@
           "time": "23:27:00"
         },
         {
+          "rota_id": "33",
           "id": 10,
           "name": "Parque Lagoa de Calú",
           "lat": "-9.25314000",
@@ -4672,6 +5536,7 @@
           "time": "23:30:00"
         },
         {
+          "rota_id": "33",
           "id": 11,
           "name": "Canteiro de Obras - Juazeiro",
           "lat": "-9.41995540",
@@ -4679,6 +5544,7 @@
           "time": "23:32:00"
         },
         {
+          "rota_id": "33",
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
@@ -4686,6 +5552,7 @@
           "time": "23:35:00"
         },
         {
+          "rota_id": "33",
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
