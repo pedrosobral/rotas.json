@@ -290,114 +290,150 @@
     },
     {
       "id": 49,
+      "name": "Supermercado Regente",
+      "lat": "-9.39546120",
+      "lng": "-40.50227960"
+    },
+    {
+      "id": 50,
       "name": "Bar da Tripa",
       "lat": "-9.39728350",
       "lng": "-40.49145680"
     },
     {
-      "id": 50,
+      "id": 51,
       "name": "Posto Big Brother",
       "lat": "-9.37758270",
       "lng": "-40.48842540"
     },
     {
-      "id": 51,
+      "id": 52,
       "name": "Colina Auto Peças",
       "lat": "-9.37799270",
       "lng": "-40.50442290"
     },
     {
-      "id": 52,
+      "id": 53,
       "name": "Vila Militar",
       "lat": "-9.38251830",
       "lng": "-40.51557820"
     },
     {
-      "id": 53,
+      "id": 54,
       "name": "PETRAPE (Av. Integração)",
       "lat": "-9.38845410",
       "lng": "-40.51784040"
     },
     {
-      "id": 54,
+      "id": 55,
       "name": "Caldinho 3D (Av. Integração)",
       "lat": "-9.38584600",
       "lng": "-40.51261720"
     },
     {
-      "id": 55,
+      "id": 56,
       "name": "Joalina (Av. das Nações)",
       "lat": "-9.38515160",
       "lng": "-40.51012500"
     },
     {
-      "id": 56,
+      "id": 57,
       "name": "Ponto de parada HAVAN",
       "lat": "-9.39110710",
       "lng": "-40.51972880"
     },
     {
-      "id": 57,
+      "id": 58,
       "name": "TV São Francisco",
       "lat": "-9.41525330",
       "lng": "-40.50110910"
     },
     {
-      "id": 58,
+      "id": 59,
       "name": "Plante Bem",
       "lat": "-9.39484610",
       "lng": "-40.52011130"
     },
     {
-      "id": 59,
+      "id": 60,
       "name": "Nissan",
       "lat": "-9.39522760",
       "lng": "-40.49034770"
     },
     {
-      "id": 60,
+      "id": 61,
       "name": "Ponto do CEAPE",
       "lat": "-9.38077730",
       "lng": "-40.51095910"
     },
     {
-      "id": 61,
+      "id": 62,
       "name": "Padaria Lisboa",
       "lat": "-9.38802270",
       "lng": "-40.51096990"
     },
     {
-      "id": 62,
+      "id": 63,
       "name": "Escola Adelina Almeida",
       "lat": "-9.38383500",
       "lng": "-40.48909130"
     },
     {
-      "id": 63,
+      "id": 64,
       "name": "Lateral Cemitério Campo das Flores - Centro",
       "lat": "-9.39472390",
       "lng": "-40.50651850"
     },
     {
-      "id": 64,
+      "id": 65,
       "name": "Aldiegas Peças e Serviços",
       "lat": "-9.37677780",
       "lng": "-40.49687420"
     },
     {
-      "id": 65,
+      "id": 66,
+      "name": "Feira da Areia Branca",
+      "lat": "-9.38394720",
+      "lng": "-40.49398320"
+    },
+    {
+      "id": 67,
+      "name": "Vila dos Sargentos",
+      "lat": "-9.38471240",
+      "lng": "-40.52027970"
+    },
+    {
+      "id": 68,
+      "name": "Farmácia Girassol",
+      "lat": "-9.43765790",
+      "lng": "-40.51507210"
+    },
+    {
+      "id": 69,
+      "name": "Centro Educacional Argemiro",
+      "lat": "-9.43861780",
+      "lng": "-40.51841350"
+    },
+    {
+      "id": 70,
+      "name": "Rei das Coxinhas",
+      "lat": "-9.38661680",
+      "lng": "-40.51536140"
+    },
+    {
+      "id": 71,
       "name": "Espacial/Palhoça",
       "lat": "-9.38126500",
       "lng": "-40.51208650"
     },
     {
-      "id": 66,
+      "id": 72,
       "name": "SAF",
       "lat": "-9.41717240",
       "lng": "-40.50715480"
     },
     {
-      "id": 67,
+      "id": 73,
       "name": "Sindicato Rural dos Trabalhadores",
       "lat": "-9.38865310",
       "lng": "-40.50894960"
@@ -1033,11 +1069,18 @@
           "time": "07:35:00"
         },
         {
+          "id": 49,
+          "name": "Supermercado Regente",
+          "lat": "-9.39546120",
+          "lng": "-40.50227960",
+          "time": "07:48:00"
+        },
+        {
           "id": 1,
           "name": "UNIVASF Campus Juazeiro",
           "lat": "-9.41153150",
           "lng": "-40.51271800",
-          "time": "07:45:00"
+          "time": "08:00:00"
         }
       ]
     },
@@ -1089,7 +1132,7 @@
           "time": "07:00:00"
         },
         {
-          "id": 49,
+          "id": 50,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
           "lng": "-40.49145680",
@@ -1110,7 +1153,7 @@
           "time": "07:08:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -1131,7 +1174,7 @@
           "time": "07:15:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -1145,7 +1188,7 @@
           "time": "07:20:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -1197,6 +1240,55 @@
     },
     {
       "id": 8,
+      "bus": "C",
+      "way": "Av. Honorato/Integração",
+      "stops": [
+        {
+          "id": 13,
+          "name": "UNIVASF Campus Ciências Agrárias - CCA",
+          "lat": "-9.32920030",
+          "lng": "-40.55126650",
+          "time": "07:45:00"
+        },
+        {
+          "id": 21,
+          "name": "IF Sertão",
+          "lat": "-9.36322230",
+          "lng": "-40.54495070",
+          "time": "08:05:00"
+        },
+        {
+          "id": 20,
+          "name": "Entrada do Bairro Quati",
+          "lat": "-9.36528310",
+          "lng": "-40.54374950",
+          "time": "08:07:00"
+        },
+        {
+          "id": 18,
+          "name": "Feira da Cohab Massangano (Jardim Amazonas)",
+          "lat": "-9.37979310",
+          "lng": "-40.53340800",
+          "time": "08:10:00"
+        },
+        {
+          "id": 19,
+          "name": "SAMU (Jardim Amazonas)",
+          "lat": "-9.37813930",
+          "lng": "-40.53507120",
+          "time": "08:11:00"
+        },
+        {
+          "id": 13,
+          "name": "UNIVASF Campus Ciências Agrárias - CCA",
+          "lat": "-9.32920030",
+          "lng": "-40.55126650",
+          "time": "08:15:00"
+        }
+      ]
+    },
+    {
+      "id": 9,
       "bus": "B",
       "way": "Honorato/Integração",
       "stops": [
@@ -1313,14 +1405,14 @@
           "time": "09:20:00"
         },
         {
-          "id": 53,
+          "id": 54,
           "name": "PETRAPE (Av. Integração)",
           "lat": "-9.38845410",
           "lng": "-40.51784040",
           "time": "09:27:00"
         },
         {
-          "id": 54,
+          "id": 55,
           "name": "Caldinho 3D (Av. Integração)",
           "lat": "-9.38584600",
           "lng": "-40.51261720",
@@ -1350,8 +1442,8 @@
       ]
     },
     {
-      "id": 9,
-      "bus": "C",
+      "id": 10,
+      "bus": "G",
       "way": "Av. 7 de Setembro",
       "stops": [
         {
@@ -1397,7 +1489,7 @@
           "time": "09:07:00"
         },
         {
-          "id": 49,
+          "id": 50,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
           "lng": "-40.49145680",
@@ -1418,7 +1510,7 @@
           "time": "09:13:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -1439,7 +1531,7 @@
           "time": "09:20:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -1453,7 +1545,7 @@
           "time": "09:25:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -1525,7 +1617,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "bus": "D",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -1537,7 +1629,7 @@
           "time": "08:55:00"
         },
         {
-          "id": 49,
+          "id": 50,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
           "lng": "-40.49145680",
@@ -1558,7 +1650,7 @@
           "time": "09:06:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -1579,7 +1671,7 @@
           "time": "09:17:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -1593,7 +1685,7 @@
           "time": "09:23:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -1644,7 +1736,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "bus": "D",
       "way": "Av. 7 de Setembro/Integração",
       "stops": [
@@ -1698,7 +1790,7 @@
           "time": "10:30:00"
         },
         {
-          "id": 55,
+          "id": 56,
           "name": "Joalina (Av. das Nações)",
           "lat": "-9.38515160",
           "lng": "-40.51012500",
@@ -1740,14 +1832,14 @@
           "time": "10:52:00"
         },
         {
-          "id": 54,
+          "id": 55,
           "name": "Caldinho 3D (Av. Integração)",
           "lat": "-9.38584600",
           "lng": "-40.51261720",
           "time": "10:56:00"
         },
         {
-          "id": 56,
+          "id": 57,
           "name": "Ponto de parada HAVAN",
           "lat": "-9.39110710",
           "lng": "-40.51972880",
@@ -1763,7 +1855,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "bus": "A",
       "way": "Batalhão PM-BA",
       "stops": [
@@ -1838,7 +1930,7 @@
           "time": "11:30:00"
         },
         {
-          "id": 57,
+          "id": 58,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
           "lng": "-40.50110910",
@@ -1952,7 +2044,84 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
+      "bus": "C",
+      "way": " Av. Honorato Viana",
+      "stops": [
+        {
+          "id": 1,
+          "name": "UNIVASF Campus Juazeiro",
+          "lat": "-9.41153150",
+          "lng": "-40.51271800",
+          "time": "11:45:00"
+        },
+        {
+          "id": 12,
+          "name": "Terminal de Juazeiro",
+          "lat": "-9.41470290",
+          "lng": "-40.50506960",
+          "time": "11:50:00"
+        },
+        {
+          "id": 22,
+          "name": "Del Veículos",
+          "lat": "-9.39416300",
+          "lng": "-40.51031800",
+          "time": "12:05:00"
+        },
+        {
+          "id": 29,
+          "name": "Escola Estadual Paul Harris",
+          "lat": "-9.39289110",
+          "lng": "-40.51432240",
+          "time": "12:08:00"
+        },
+        {
+          "id": 30,
+          "name": "Zé Nilton Automóveis",
+          "lat": "-9.39160510",
+          "lng": "-40.51818700",
+          "time": "12:10:00"
+        },
+        {
+          "id": 18,
+          "name": "Feira da Cohab Massangano (Jardim Amazonas)",
+          "lat": "-9.37979310",
+          "lng": "-40.53340800",
+          "time": "12:13:00"
+        },
+        {
+          "id": 19,
+          "name": "SAMU (Jardim Amazonas)",
+          "lat": "-9.37813930",
+          "lng": "-40.53507120",
+          "time": "12:15:00"
+        },
+        {
+          "id": 20,
+          "name": "Entrada do Bairro Quati",
+          "lat": "-9.36528310",
+          "lng": "-40.54374950",
+          "time": "12:20:00"
+        },
+        {
+          "id": 21,
+          "name": "IF Sertão",
+          "lat": "-9.36322230",
+          "lng": "-40.54495070",
+          "time": "12:25:00"
+        },
+        {
+          "id": 13,
+          "name": "UNIVASF Campus Ciências Agrárias - CCA",
+          "lat": "-9.32920030",
+          "lng": "-40.55126650",
+          "time": "12:30:00"
+        }
+      ]
+    },
+    {
+      "id": 15,
       "bus": "D",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -2013,7 +2182,7 @@
           "time": "12:36:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -2027,7 +2196,7 @@
           "time": "12:40:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -2090,7 +2259,7 @@
           "time": "12:59:00"
         },
         {
-          "id": 58,
+          "id": 59,
           "name": "Plante Bem",
           "lat": "-9.39484610",
           "lng": "-40.52011130",
@@ -2127,7 +2296,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 16,
       "bus": "B",
       "way": "Honorato Viana",
       "stops": [
@@ -2204,7 +2373,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 17,
       "bus": "A",
       "way": "Batalhão PM-BA",
       "stops": [
@@ -2328,7 +2497,7 @@
           "time": "13:25:00"
         },
         {
-          "id": 57,
+          "id": 58,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
           "lng": "-40.50110910",
@@ -2344,7 +2513,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 18,
       "bus": "B",
       "way": "Av. Nações",
       "stops": [
@@ -2440,7 +2609,7 @@
           "time": "13:23:00"
         },
         {
-          "id": 59,
+          "id": 60,
           "name": "Nissan",
           "lat": "-9.39522760",
           "lng": "-40.49034770",
@@ -2463,7 +2632,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 19,
       "bus": "C",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -2517,7 +2686,7 @@
           "time": "12:58:00"
         },
         {
-          "id": 60,
+          "id": 61,
           "name": "Ponto do CEAPE",
           "lat": "-9.38077730",
           "lng": "-40.51095910",
@@ -2531,7 +2700,7 @@
           "time": "13:06:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -2545,7 +2714,7 @@
           "time": "13:12:00"
         },
         {
-          "id": 59,
+          "id": 60,
           "name": "Nissan",
           "lat": "-9.39522760",
           "lng": "-40.49034770",
@@ -2575,7 +2744,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 20,
       "bus": "A",
       "way": "Av. 7 Set",
       "stops": [
@@ -2629,7 +2798,7 @@
           "time": "15:31:00"
         },
         {
-          "id": 55,
+          "id": 56,
           "name": "Joalina (Av. das Nações)",
           "lat": "-9.38515160",
           "lng": "-40.51012500",
@@ -2743,7 +2912,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 21,
       "bus": "B",
       "way": "Honorato Viana",
       "stops": [
@@ -2797,7 +2966,7 @@
           "time": "15:30:00"
         },
         {
-          "id": 61,
+          "id": 62,
           "name": "Padaria Lisboa",
           "lat": "-9.38802270",
           "lng": "-40.51096990",
@@ -2848,7 +3017,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 22,
       "bus": "E",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -2902,7 +3071,7 @@
           "time": "15:33:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -2923,7 +3092,7 @@
           "time": "15:50:00"
         },
         {
-          "id": 62,
+          "id": 63,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
           "lng": "-40.48909130",
@@ -2953,7 +3122,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 23,
       "bus": "B",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -2993,7 +3162,7 @@
           "time": "16:25:00"
         },
         {
-          "id": 63,
+          "id": 64,
           "name": "Lateral Cemitério Campo das Flores - Centro",
           "lat": "-9.39472390",
           "lng": "-40.50651850",
@@ -3007,7 +3176,7 @@
           "time": "16:38:00"
         },
         {
-          "id": 60,
+          "id": 61,
           "name": "Ponto do CEAPE",
           "lat": "-9.38077730",
           "lng": "-40.51095910",
@@ -3021,7 +3190,7 @@
           "time": "16:45:00"
         },
         {
-          "id": 64,
+          "id": 65,
           "name": "Aldiegas Peças e Serviços",
           "lat": "-9.37677780",
           "lng": "-40.49687420",
@@ -3058,9 +3227,9 @@
       ]
     },
     {
-      "id": 22,
+      "id": 24,
       "bus": "E",
-      "way": "Batalhão PM-BA/Univasf Centro",
+      "way": "Areia Branca/Av. 7 de Setembro",
       "stops": [
         {
           "id": 1,
@@ -3070,86 +3239,100 @@
           "time": "17:00:00"
         },
         {
-          "id": 4,
-          "name": "Estação Velha / Cooperativa Brasil",
-          "lat": "-9.42890450",
-          "lng": "-40.50407050",
-          "time": "17:05:00"
-        },
-        {
-          "id": 5,
-          "name": "Farmácia Popular (João XXIII)",
-          "lat": "-9.43418400",
-          "lng": "-40.50129150",
-          "time": "17:10:00"
-        },
-        {
-          "id": 6,
-          "name": "Verdão",
-          "lat": "-9.44239990",
-          "lng": "-40.49344990",
-          "time": "17:15:00"
-        },
-        {
-          "id": 7,
-          "name": "Ao Lado do Batalhão da PM",
-          "lat": "-9.44207000",
-          "lng": "-40.49286300",
-          "time": "17:18:00"
-        },
-        {
-          "id": 8,
-          "name": "Posto Raul Lins (Castelo Branco)",
-          "lat": "-9.43859400",
-          "lng": "-40.49479600",
-          "time": "17:21:00"
-        },
-        {
-          "id": 9,
-          "name": "Equipadora Cordeiro (Alto do Cruzeiro)",
-          "lat": "-9.43117310",
-          "lng": "-40.49828710",
-          "time": "17:24:00"
-        },
-        {
-          "id": 10,
-          "name": "Parque Lagoa de Calú",
-          "lat": "-9.42542630",
-          "lng": "-40.50012980",
-          "time": "17:28:00"
-        },
-        {
-          "id": 11,
-          "name": "Canteiro de Obras - Juazeiro",
-          "lat": "-9.41995540",
-          "lng": "-40.50120240",
-          "time": "17:30:00"
-        },
-        {
           "id": 12,
           "name": "Terminal de Juazeiro",
           "lat": "-9.41470290",
           "lng": "-40.50506960",
-          "time": "17:35:00"
+          "time": "17:05:00"
+        },
+        {
+          "id": 24,
+          "name": "Rodoviária - Petrolina (Av. das Nações)",
+          "lat": "-9.39119750",
+          "lng": "-40.50821670",
+          "time": "17:07:00"
+        },
+        {
+          "id": 26,
+          "name": "Caixa d’água Compesa",
+          "lat": "-9.39055300",
+          "lng": "-40.50104400",
+          "time": "17:09:00"
         },
         {
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
           "lng": "-40.49883060",
-          "time": "17:45:00"
+          "time": "17:10:00"
+        },
+        {
+          "id": 66,
+          "name": "Feira da Areia Branca",
+          "lat": "-9.38394720",
+          "lng": "-40.49398320",
+          "time": "17:15:00"
+        },
+        {
+          "id": 14,
+          "name": "Mecânica Bahia",
+          "lat": "-9.37557870",
+          "lng": "-40.49483500",
+          "time": "17:20:00"
+        },
+        {
+          "id": 52,
+          "name": "Colina Auto Peças",
+          "lat": "-9.37799270",
+          "lng": "-40.50442290",
+          "time": "17:22:00"
+        },
+        {
+          "id": 67,
+          "name": "Vila dos Sargentos",
+          "lat": "-9.38471240",
+          "lng": "-40.52027970",
+          "time": "17:25:00"
+        },
+        {
+          "id": 17,
+          "name": "Posto São Francisco",
+          "lat": "-9.38559880",
+          "lng": "-40.52540780",
+          "time": "17:27:00"
+        },
+        {
+          "id": 18,
+          "name": "Feira da Cohab Massangano (Jardim Amazonas)",
+          "lat": "-9.37979310",
+          "lng": "-40.53340800",
+          "time": "17:30:00"
+        },
+        {
+          "id": 19,
+          "name": "SAMU (Jardim Amazonas)",
+          "lat": "-9.37813930",
+          "lng": "-40.53507120",
+          "time": "17:35:00"
+        },
+        {
+          "id": 21,
+          "name": "IF Sertão",
+          "lat": "-9.36322230",
+          "lng": "-40.54495070",
+          "time": "17:40:00"
         },
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
           "lat": "-9.32920030",
           "lng": "-40.55126650",
-          "time": "18:10:00"
+          "time": "18:00:00"
         }
       ]
     },
     {
-      "id": 23,
+      "id": 25,
       "bus": "A",
       "way": "Av. Honorato/Batalhão-BA",
       "stops": [
@@ -3282,7 +3465,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 26,
       "bus": "B",
       "way": "Honorato Viana",
       "stops": [
@@ -3336,7 +3519,7 @@
           "time": "17:35:00"
         },
         {
-          "id": 61,
+          "id": 62,
           "name": "Padaria Lisboa",
           "lat": "-9.38802270",
           "lng": "-40.51096990",
@@ -3394,7 +3577,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 27,
       "bus": "C",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -3462,7 +3645,7 @@
           "time": "17:40:00"
         },
         {
-          "id": 62,
+          "id": 63,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
           "lng": "-40.48909130",
@@ -3476,7 +3659,7 @@
           "time": "17:50:00"
         },
         {
-          "id": 59,
+          "id": 60,
           "name": "Nissan",
           "lat": "-9.39522760",
           "lng": "-40.49034770",
@@ -3509,11 +3692,25 @@
           "lat": "-9.41153150",
           "lng": "-40.51271800",
           "time": "18:15:00"
+        },
+        {
+          "id": 68,
+          "name": "Farmácia Girassol",
+          "lat": "-9.43765790",
+          "lng": "-40.51507210",
+          "time": "18:20:00"
+        },
+        {
+          "id": 69,
+          "name": "Centro Educacional Argemiro",
+          "lat": "-9.43861780",
+          "lng": "-40.51841350",
+          "time": "18:25:00"
         }
       ]
     },
     {
-      "id": 26,
+      "id": 28,
       "bus": "F",
       "way": "Av. 7 de Setembro/Batalhão-PM",
       "stops": [
@@ -3581,7 +3778,7 @@
           "time": "17:40:00"
         },
         {
-          "id": 62,
+          "id": 63,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
           "lng": "-40.48909130",
@@ -3595,7 +3792,7 @@
           "time": "17:50:00"
         },
         {
-          "id": 59,
+          "id": 60,
           "name": "Nissan",
           "lat": "-9.39522760",
           "lng": "-40.49034770",
@@ -3688,7 +3885,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 29,
       "bus": "E",
       "way": "Honorato/Batalhão PM-BA",
       "stops": [
@@ -3728,39 +3925,67 @@
           "time": "18:30:00"
         },
         {
-          "id": 30,
-          "name": "Zé Nilton Automóveis",
-          "lat": "-9.39160510",
-          "lng": "-40.51818700",
+          "id": 59,
+          "name": "Plante Bem",
+          "lat": "-9.39484610",
+          "lng": "-40.52011130",
           "time": "18:34:00"
         },
         {
-          "id": 29,
-          "name": "Escola Estadual Paul Harris",
-          "lat": "-9.39289110",
-          "lng": "-40.51432240",
+          "id": 54,
+          "name": "PETRAPE (Av. Integração)",
+          "lat": "-9.38845410",
+          "lng": "-40.51784040",
+          "time": "18:36:00"
+        },
+        {
+          "id": 70,
+          "name": "Rei das Coxinhas",
+          "lat": "-9.38661680",
+          "lng": "-40.51536140",
           "time": "18:37:00"
         },
         {
-          "id": 22,
-          "name": "Del Veículos",
-          "lat": "-9.39416300",
-          "lng": "-40.51031800",
-          "time": "18:40:00"
+          "id": 28,
+          "name": "Praça da Sementeira",
+          "lat": "-9.38586010",
+          "lng": "-40.50968700",
+          "time": "18:39:00"
+        },
+        {
+          "id": 27,
+          "name": "Sabel São Francisco Bebidas (Av. Inte Airton Senna)",
+          "lat": "-9.38285490",
+          "lng": "-40.50289500",
+          "time": "19:40:00"
+        },
+        {
+          "id": 48,
+          "name": "Park Mundo da Lua (Av. Integração)",
+          "lat": "-9.38537350",
+          "lng": "-40.49802130",
+          "time": "19:41:00"
+        },
+        {
+          "id": 26,
+          "name": "Caixa d’água Compesa",
+          "lat": "-9.39055300",
+          "lng": "-40.50104400",
+          "time": "19:43:00"
         },
         {
           "id": 23,
           "name": "UNIVASF Campus Petrolina Centro",
           "lat": "-9.39006840",
           "lng": "-40.49883060",
-          "time": "18:42:00"
+          "time": "18:45:00"
         },
         {
           "id": 4,
           "name": "Estação Velha / Cooperativa Brasil",
           "lat": "-9.42890450",
           "lng": "-40.50407050",
-          "time": "18:52:00"
+          "time": "18:53:00"
         },
         {
           "id": 5,
@@ -3812,7 +4037,7 @@
           "time": "19:10:00"
         },
         {
-          "id": 57,
+          "id": 58,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
           "lng": "-40.50110910",
@@ -3828,7 +4053,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 30,
       "bus": "D",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -3882,7 +4107,7 @@
           "time": "18:38:00"
         },
         {
-          "id": 65,
+          "id": 71,
           "name": "Espacial/Palhoça",
           "lat": "-9.38126500",
           "lng": "-40.51208650",
@@ -3903,7 +4128,7 @@
           "time": "18:48:00"
         },
         {
-          "id": 62,
+          "id": 63,
           "name": "Escola Adelina Almeida",
           "lat": "-9.38383500",
           "lng": "-40.48909130",
@@ -3917,7 +4142,7 @@
           "time": "18:53:00"
         },
         {
-          "id": 59,
+          "id": 60,
           "name": "Nissan",
           "lat": "-9.39522760",
           "lng": "-40.49034770",
@@ -3954,7 +4179,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 31,
       "bus": "C",
       "way": "7/Honorato/Nilo Coelho",
       "stops": [
@@ -4029,7 +4254,7 @@
           "time": "18:52:00"
         },
         {
-          "id": 57,
+          "id": 58,
           "name": "TV São Francisco",
           "lat": "-9.41525330",
           "lng": "-40.50110910",
@@ -4043,7 +4268,7 @@
           "time": "19:00:00"
         },
         {
-          "id": 66,
+          "id": 72,
           "name": "SAF",
           "lat": "-9.41717240",
           "lng": "-40.50715480",
@@ -4057,7 +4282,7 @@
           "time": "19:07:00"
         },
         {
-          "id": 67,
+          "id": 73,
           "name": "Sindicato Rural dos Trabalhadores",
           "lat": "-9.38865310",
           "lng": "-40.50894960",
@@ -4099,7 +4324,7 @@
           "time": "19:22:00"
         },
         {
-          "id": 49,
+          "id": 50,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
           "lng": "-40.49145680",
@@ -4120,7 +4345,7 @@
           "time": "19:30:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -4134,7 +4359,7 @@
           "time": "19:35:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -4148,7 +4373,7 @@
           "time": "19:40:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -4211,7 +4436,7 @@
           "time": "20:07:00"
         },
         {
-          "id": 58,
+          "id": 59,
           "name": "Plante Bem",
           "lat": "-9.39484610",
           "lng": "-40.52011130",
@@ -4248,63 +4473,7 @@
       ]
     },
     {
-      "id": 30,
-      "bus": "D",
-      "way": "Honorato/Integração",
-      "stops": [
-        {
-          "id": 1,
-          "name": "UNIVASF Campus Juazeiro",
-          "lat": "-9.41153150",
-          "lng": "-40.51271800",
-          "time": "21:15:00"
-        },
-        {
-          "id": 2,
-          "name": "Sanfra Motos",
-          "lat": "-9.41283180",
-          "lng": "-40.50649650",
-          "time": "21:17:00"
-        },
-        {
-          "id": 10,
-          "name": "Parque Lagoa de Calú",
-          "lat": "-9.42542630",
-          "lng": "-40.50012980",
-          "time": "21:20:00"
-        },
-        {
-          "id": 11,
-          "name": "Canteiro de Obras - Juazeiro",
-          "lat": "-9.41995540",
-          "lng": "-40.50120240",
-          "time": "21:25:00"
-        },
-        {
-          "id": 57,
-          "name": "TV São Francisco",
-          "lat": "-9.41525330",
-          "lng": "-40.50110910",
-          "time": "21:28:00"
-        },
-        {
-          "id": 12,
-          "name": "Terminal de Juazeiro",
-          "lat": "-9.41470290",
-          "lng": "-40.50506960",
-          "time": "21:30:00"
-        },
-        {
-          "id": 1,
-          "name": "UNIVASF Campus Juazeiro",
-          "lat": "-9.41153150",
-          "lng": "-40.51271800",
-          "time": "21:55:00"
-        }
-      ]
-    },
-    {
-      "id": 31,
+      "id": 32,
       "bus": "C",
       "way": "Av. 7 de Setembro",
       "stops": [
@@ -4323,7 +4492,7 @@
           "time": "21:20:00"
         },
         {
-          "id": 66,
+          "id": 72,
           "name": "SAF",
           "lat": "-9.41717240",
           "lng": "-40.50715480",
@@ -4337,7 +4506,7 @@
           "time": "21:32:00"
         },
         {
-          "id": 67,
+          "id": 73,
           "name": "Sindicato Rural dos Trabalhadores",
           "lat": "-9.38865310",
           "lng": "-40.50894960",
@@ -4381,7 +4550,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "bus": "D",
       "way": "Batalhão-PM/Nilo Coelho/7 Set/Honorato",
       "stops": [
@@ -4498,7 +4667,7 @@
           "time": "22:43:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -4512,7 +4681,7 @@
           "time": "22:48:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -4526,7 +4695,7 @@
           "time": "22:51:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -4582,7 +4751,7 @@
           "time": "23:07:00"
         },
         {
-          "id": 58,
+          "id": 59,
           "name": "Plante Bem",
           "lat": "-9.39484610",
           "lng": "-40.52011130",
@@ -4612,7 +4781,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 34,
       "bus": "C",
       "way": "Av. 7 de Setembro/Honorato/Batalhão-PM",
       "stops": [
@@ -4624,7 +4793,7 @@
           "time": "22:15:00"
         },
         {
-          "id": 49,
+          "id": 50,
           "name": "Bar da Tripa",
           "lat": "-9.39728350",
           "lng": "-40.49145680",
@@ -4638,7 +4807,7 @@
           "time": "22:19:00"
         },
         {
-          "id": 50,
+          "id": 51,
           "name": "Posto Big Brother",
           "lat": "-9.37758270",
           "lng": "-40.48842540",
@@ -4652,7 +4821,7 @@
           "time": "22:25:00"
         },
         {
-          "id": 51,
+          "id": 52,
           "name": "Colina Auto Peças",
           "lat": "-9.37799270",
           "lng": "-40.50442290",
@@ -4666,7 +4835,7 @@
           "time": "22:30:00"
         },
         {
-          "id": 52,
+          "id": 53,
           "name": "Vila Militar",
           "lat": "-9.38251830",
           "lng": "-40.51557820",
@@ -4729,7 +4898,7 @@
           "time": "22:53:00"
         },
         {
-          "id": 58,
+          "id": 59,
           "name": "Plante Bem",
           "lat": "-9.39484610",
           "lng": "-40.52011130",
