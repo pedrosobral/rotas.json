@@ -13,22 +13,22 @@ Via,Batalhão PM/Av. Nações
 06:35,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
 06:37,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 06:40,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,1
 Ônibus,A
 Via, Av. 7 de Setembro
-07:07,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:07,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 07:30,,,Mecânica Bahia,-9.3755787,-40.4948350
 07:32,,,Rádio Grande Rio,-9.3788273,-40.5069060
 07:35,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
-07:36,,,Posto São Francisco,-9.3855988,-40.5254078
+07:36,,,Posto São Francisco,-9.3862089,-40.523701
 07:38,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 07:40,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 07:42,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:45,,,IF Sertão,-9.3632223,-40.5449507
-07:50,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:50,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 08:10,,,Del Veículos,-9.3941630,-40.5103180
-08:20,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+08:20,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 08:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,2
 Ônibus,B
@@ -38,7 +38,7 @@ Via,Av. Honorato Viana
 06:18,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 06:20,,,CDF - Curso de Física (Av. das Nações),-9.3886531,-40.5089496
 06:23,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-06:25,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+06:25,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 06:28,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 06:30,,,Praça da Sementeira,-9.3858601,-40.5096870
 06:33,,,Del Veículos,-9.3941630,-40.5103180
@@ -48,16 +48,16 @@ Via,Av. Honorato Viana
 06:45,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 06:48,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 06:50,,,IF Sertão,-9.3632223,-40.5449507
-06:55,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+06:55,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,2
 Ônibus,B
 Via,Av. 7 de Set/Integração/Nilo Coelho
-07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 07:10,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
 07:13,,,Grande Rio Veículos,-9.3856892,-40.4889025
 07:15,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 07:19,,,Ministério Público,-9.3970594,-40.4925850
-07:22,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+07:22,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 07:28,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 07:30,,,INCRA (Av. Integração),-9.3840076,-40.5061997
 07:32,,,Praça da Sementeira,-9.3858601,-40.5096870
@@ -82,11 +82,11 @@ Via,Av. 7 de Setembro
 06:53,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 06:55,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 06:58,,,IF Sertão,-9.3632223,-40.5449507
-07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,12
 Ônibus,G
 Via,Av. Honorato viana
-07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 07:10,,,IF Sertão,-9.3632223,-40.5449507
 07:13,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:15,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -99,7 +99,7 @@ Via,Av. Honorato viana
 07:28,,,Praça da Sementeira,-9.3858601,-40.5096870
 07:30,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 07:31,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-07:35,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+07:35,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 07:48,,,Supermercado Regente,-9.3954612,-40.5022796
 08:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,3/4
@@ -110,7 +110,7 @@ Via,Av. 7 de Setembro
 06:53,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 06:56,,,CDF - Curso de Física (Av. das Nações),-9.3886531,-40.5089496
 06:58,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-07:00,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+07:00,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 07:03,,,Bar da Tripa,-9.3972835,-40.4914568
 07:05,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 07:08,,,Grande Rio Veículos,-9.3856892,-40.4889025
@@ -120,21 +120,21 @@ Via,Av. 7 de Setembro
 07:18,,,Colina Auto Peças,-9.3779927,-40.5044229
 07:20,,,Rádio Grande Rio,-9.3788273,-40.5069060
 07:22,,,Vila Militar,-9.3825183,-40.5155782
-07:25,,,Posto São Francisco,-9.3855988,-40.5254078
+07:25,,,Posto São Francisco,-9.3862089,-40.523701
 07:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 07:32,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 07:35,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:40,,,IF Sertão,-9.3632223,-40.5449507
-07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,3
 Ônibus,C
 Via,Av. Honorato/Integração
-07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 08:05,,,IF Sertão,-9.3632223,-40.5449507
 08:07,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 08:10,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 08:11,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-08:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+08:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,2
 Ônibus,B
 Via,Honorato/Integração
@@ -143,7 +143,7 @@ Via,Honorato/Integração
 08:41,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 08:43,,,CDF - Curso de Física (Av. das Nações),-9.3886531,-40.5089496
 08:45,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-08:47,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+08:47,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 08:52,,,Del Veículos,-9.3941630,-40.5103180
 08:55,,,Escola Estadual Paul Harris,-9.3928911,-40.5143224
 08:58,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
@@ -167,7 +167,7 @@ Via,Av. 7 de Setembro
 09:00,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 09:03,,,CDF - Curso de Física (Av. das Nações),-9.3886531,-40.5089496
 09:05,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-09:07,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+09:07,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 09:09,,,Bar da Tripa,-9.3972835,-40.4914568
 09:11,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 09:13,,,Grande Rio Veículos,-9.3856892,-40.4889025
@@ -177,19 +177,19 @@ Via,Av. 7 de Setembro
 09:22,,,Colina Auto Peças,-9.3779927,-40.5044229
 09:25,,,Rádio Grande Rio,-9.3788273,-40.5069060
 09:28,,,Vila Militar,-9.3825183,-40.5155782
-09:30,,,Posto São Francisco,-9.3855988,-40.5254078
+09:30,,,Posto São Francisco,-9.3862089,-40.523701
 09:33,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 09:36,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 09:40,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 09:43,,,IF Sertão,-9.3632223,-40.5449507
-10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 10:13,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
 10:15,,,Del Veículos,-9.3941630,-40.5103180
 10:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,4
 Ônibus,D
 Via,Av. 7 de Setembro
-08:55,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+08:55,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 08:58,,,Bar da Tripa,-9.3972835,-40.4914568
 09:02,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 09:06,,,Grande Rio Veículos,-9.3856892,-40.4889025
@@ -199,31 +199,31 @@ Via,Av. 7 de Setembro
 09:19,,,Colina Auto Peças,-9.3779927,-40.5044229
 09:23,,,Rádio Grande Rio,-9.3788273,-40.5069060
 09:26,,,Vila Militar,-9.3825183,-40.5155782
-09:30,,,Posto São Francisco,-9.3855988,-40.5254078
+09:30,,,Posto São Francisco,-9.3862089,-40.523701
 09:34,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 09:40,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 09:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 09:50,,,IF Sertão,-9.3632223,-40.5449507
-10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,4
 Ônibus,D
 Via,Av. 7 de Setembro/Integração
-10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 10:10,,,IF Sertão,-9.3632223,-40.5449507
 10:15,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 10:20,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 10:23,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-10:26,,,Posto São Francisco,-9.3855988,-40.5254078
+10:26,,,Posto São Francisco,-9.3862089,-40.523701
 10:30,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 10:35,,,Joalina (Av. das Nações),-9.3851516,-40.5101250
 10:38,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 10:40,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 10:45,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-10:48,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+10:48,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 10:52,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 10:56,,,Caldinho 3D (Av. Integração),-9.3858460,-40.5126172
 10:58,,,Ponto de parada HAVAN,-9.3911071,-40.5197288
-11:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+11:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,1
 Ônibus,A
 Via,Batalhão PM-BA
@@ -242,7 +242,7 @@ Via,Batalhão PM-BA
 11:40,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 11:42,,,CDF - Curso de Física (Av. das Nações),-9.3886531,-40.5089496
 11:45,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-11:47,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+11:47,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 11:50,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 11:53,,,Praça da Sementeira,-9.3858601,-40.5096870
 12:03,,,Del Veículos,-9.3941630,-40.5103180
@@ -252,7 +252,7 @@ Via,Batalhão PM-BA
 12:18,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:21,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:28,,,IF Sertão,-9.3632223,-40.5449507
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,3
 Ônibus,C
 Via, Av. Honorato Viana
@@ -265,7 +265,7 @@ Via, Av. Honorato Viana
 12:15,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:20,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:25,,,IF Sertão,-9.3632223,-40.5449507
-12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,4
 Ônibus,D
 Via,Av. 7 de Setembro
@@ -273,14 +273,14 @@ Via,Av. 7 de Setembro
 12:22,,,Terminal de Juazeiro,-9.4147029,-40.5050696
 12:25,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 12:28,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-12:30,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+12:30,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 12:32,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 12:35,,,Grande Rio Veículos,-9.3856892,-40.4889025
 12:36,,,Mecânica Bahia,-9.3755787,-40.4948350
 12:38,,,Colina Auto Peças,-9.3779927,-40.5044229
 12:40,,,Rádio Grande Rio,-9.3788273,-40.5069060
 12:42,,,Vila Militar,-9.3825183,-40.5155782
-12:45,,,Posto São Francisco,-9.3855988,-40.5254078
+12:45,,,Posto São Francisco,-9.3862089,-40.523701
 12:48,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 12:50,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:52,,,Distribuidora COMPARE,-9.3747749,-40.5391531
@@ -291,7 +291,7 @@ Via,Av. 7 de Setembro
 13:05,,,Plante Bem,-9.3948461,-40.5201113
 13:07,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
 13:10,,,Del Veículos,-9.3941630,-40.5103180
-13:30,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+13:30,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 13:45,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,2
 Ônibus,B
@@ -305,11 +305,11 @@ Via,Honorato Viana
 12:22,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:25,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:30,,,IF Sertão,-9.3632223,-40.5449507
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,1
 Ônibus,A
 Via,Batalhão PM-BA
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -331,7 +331,7 @@ Via,Batalhão PM-BA
 Motorista,2
 Ônibus,B
 Via,Av. Nações, Integração
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -342,7 +342,7 @@ Via,Av. Nações, Integração
 13:08,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 13:10,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 13:15,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-13:18,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+13:18,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 13:23,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 13:25,,,Nissan,-9.3952276,-40.4903477
 13:35,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
@@ -350,12 +350,12 @@ Via,Av. Nações, Integração
 Motorista,3
 Ônibus,C
 Via,Av. 7 de Setembro
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:50,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-12:54,,,Posto São Francisco,-9.3855988,-40.5254078
+12:54,,,Posto São Francisco,-9.3862089,-40.523701
 12:58,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 13:00,,,Ponto do CEAPE,-9.3807773,-40.5109591
 13:06,,,Mecânica Bahia,-9.3755787,-40.4948350
@@ -363,22 +363,22 @@ Via,Av. 7 de Setembro
 13:12,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 13:15,,,Nissan,-9.3952276,-40.4903477
 13:17,,,Ministério Público,-9.3970594,-40.4925850
-13:20,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+13:20,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 13:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,5
 Ônibus,A
 Via,Av. 7 Set, Batalhão-PM
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:20,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:22,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 15:25,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-15:29,,,Posto São Francisco,-9.3855988,-40.5254078
+15:29,,,Posto São Francisco,-9.3862089,-40.523701
 15:31,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 15:35,,,Joalina (Av. das Nações),-9.3851516,-40.5101250
 15:40,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 15:43,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-15:45,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+15:45,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 16:00,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
 16:03,,,AABB,-9.4173347,-40.5071871
 16:08,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
@@ -390,11 +390,11 @@ Via,Av. 7 Set, Batalhão-PM
 16:25,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
 16:28,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 16:33,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-17:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,6
 Ônibus,B
 Via,Honorato Viana
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:18,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:23,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -405,25 +405,25 @@ Via,Honorato Viana
 15:35,,,Praça da Sementeira,-9.3858601,-40.5096870
 15:38,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 15:40,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-15:42,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+15:42,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 15:52,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
 16:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,9
 Ônibus,E
 Via,Av. 7 de Setembro
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:18,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:23,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 15:25,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-15:30,,,Posto São Francisco,-9.3855988,-40.5254078
+15:30,,,Posto São Francisco,-9.3862089,-40.523701
 15:33,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 15:45,,,Colina Auto Peças,-9.3779927,-40.5044229
 15:48,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
 15:50,,,Mecânica Bahia,-9.3755787,-40.4948350
 15:52,,,Escola Adelina Almeida,-9.3838350,-40.4890913
 15:55,,,Supermercado G Barbosa,-9.3900612,-40.4892109
-16:00,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+16:00,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 16:15,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,6
 Ônibus,B
@@ -438,10 +438,10 @@ Via,Av. 7 de Setembro
 16:41,,,Ponto do CEAPE,-9.3807773,-40.5109591
 16:45,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 16:48,,,Aldiegas Peças e Serviços,-9.3767778,-40.4968742
-16:49,,,Posto São Francisco,-9.3855988,-40.5254078
+16:49,,,Posto São Francisco,-9.3862089,-40.523701
 16:50,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 17:00,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-17:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,9
 Ônibus,E
 Via,Areia Branca/Av. 7 de Setembro
@@ -449,20 +449,20 @@ Via,Areia Branca/Av. 7 de Setembro
 17:05,,,Terminal de Juazeiro,-9.4147029,-40.5050696
 17:07,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
 17:09,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-17:10,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+17:10,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 17:15,,,Feira da Areia Branca,-9.3839472,-40.4939832
 17:20,,,Mecânica Bahia,-9.3755787,-40.4948350
 17:22,,,Colina Auto Peças,-9.3779927,-40.5044229
 17:25,,,Vila dos Sargentos,-9.3847124,-40.5202797
-17:27,,,Posto São Francisco,-9.3855988,-40.5254078
+17:27,,,Posto São Francisco,-9.3862089,-40.523701
 17:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 17:35,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 17:40,,,IF Sertão,-9.3632223,-40.5449507
-18:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+18:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 Motorista,5
 Ônibus,A
 Via,Av. Honorato/Batalhão-BA
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -483,7 +483,7 @@ Via,Av. Honorato/Batalhão-BA
 Motorista,6
 Ônibus,B
 Via,Honorato Viana
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:25,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -495,25 +495,25 @@ Via,Honorato Viana
 17:45,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 17:48,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 17:50,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-17:55,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+17:55,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 18:10,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
 18:15,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,7
 Ônibus,C
 Via,Av. 7 de Setembro
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 17:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-17:33,,,Posto São Francisco,-9.3855988,-40.5254078
+17:33,,,Posto São Francisco,-9.3862089,-40.523701
 17:35,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 17:38,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
 17:40,,,Mecânica Bahia,-9.3755787,-40.4948350
 17:45,,,Escola Adelina Almeida,-9.3838350,-40.4890913
 17:50,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 17:53,,,Nissan,-9.3952276,-40.4903477
-17:56,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+17:56,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 18:07,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
 18:10,,,AABB,-9.4173347,-40.5071871
 18:15,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -523,12 +523,12 @@ Via,Av. 7 de Setembro
 Motorista,8
 Ônibus,F
 Via,Av. 7 de Setembro/Batalhão-PM
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 17:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-17:33,,,Posto São Francisco,-9.3855988,-40.5254078
+17:33,,,Posto São Francisco,-9.3862089,-40.523701
 17:35,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 17:38,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
 17:40,,,Mecânica Bahia,-9.3755787,-40.4948350
@@ -536,7 +536,7 @@ Via,Av. 7 de Setembro/Batalhão-PM
 17:50,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 17:53,,,Nissan,-9.3952276,-40.4903477
 17:55,,,Ministério Público,-9.3970594,-40.4925850
-17:56,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+17:56,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 18:13,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
 18:18,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
 18:23,,,Verdão,-9.4423999,-40.4934499
@@ -550,7 +550,7 @@ Via,Av. 7 de Setembro/Batalhão-PM
 Motorista,9
 Ônibus,E
 Via,Honorato/Batalhão PM-BA
-18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 18:20,,,IF Sertão,-9.3632223,-40.5449507
 18:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 18:25,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -562,7 +562,7 @@ Via,Honorato/Batalhão PM-BA
 19:40,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 19:41,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 19:43,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-18:45,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+18:45,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 18:53,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
 18:55,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
 18:57,,,Verdão,-9.4423999,-40.4934499
@@ -576,12 +576,12 @@ Via,Honorato/Batalhão PM-BA
 Motorista,10
 Ônibus,D
 Via,Av. 7 de Setembro
-18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3292003,-40.5512665
+18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
 18:20,,,IF Sertão,-9.3632223,-40.5449507
 18:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 18:27,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 18:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-18:35,,,Posto São Francisco,-9.3855988,-40.5254078
+18:35,,,Posto São Francisco,-9.3862089,-40.523701
 18:38,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
 18:40,,,Espacial/Palhoça,-9.3812650,-40.5120865
 18:42,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
@@ -590,7 +590,7 @@ Via,Av. 7 de Setembro
 18:53,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 18:55,,,Nissan,-9.3952276,-40.4903477
 18:57,,,Ministério Público,-9.3970594,-40.4925850
-19:00,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+19:00,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 19:10,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
 19:15,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,11
@@ -615,7 +615,7 @@ Via,7/Honorato/Nilo Coelho
 19:16,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 19:18,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 19:20,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-19:22,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+19:22,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 19:24,,,Bar da Tripa,-9.3972835,-40.4914568
 19:26,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 19:30,,,Grande Rio Veículos,-9.3856892,-40.4889025
@@ -624,7 +624,7 @@ Via,7/Honorato/Nilo Coelho
 19:38,,,Colina Auto Peças,-9.3779927,-40.5044229
 19:40,,,Rádio Grande Rio,-9.3788273,-40.5069060
 19:42,,,Vila Militar,-9.3825183,-40.5155782
-19:44,,,Posto São Francisco,-9.3855988,-40.5254078
+19:44,,,Posto São Francisco,-9.3862089,-40.523701
 19:47,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 19:49,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 19:52,,,Distribuidora COMPARE,-9.3747749,-40.5391531
@@ -649,7 +649,7 @@ Via,Av. 7 de Setembro
 21:38,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 21:40,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 21:43,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-21:45,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+21:45,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 Motorista,10
 Ônibus,D
 Via,Batalhão-PM/Nilo Coelho/7 Set/Honorato
@@ -667,14 +667,14 @@ Via,Batalhão-PM/Nilo Coelho/7 Set/Honorato
 22:34,,,INCRA (Av. Integração),-9.3840076,-40.5061997
 22:36,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
 22:37,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-22:40,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+22:40,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 22:43,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 22:46,,,Posto Big Brother,-9.3775827,-40.4884254
 22:48,,,Mecânica Bahia,-9.3755787,-40.4948350
 22:49,,,Colina Auto Peças,-9.3779927,-40.5044229
 22:51,,,Rádio Grande Rio,-9.3788273,-40.5069060
 22:53,,,Vila Militar,-9.3825183,-40.5155782
-22:55,,,Posto São Francisco,-9.3855988,-40.5254078
+22:55,,,Posto São Francisco,-9.3862089,-40.523701
 22:57,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 23:00,,,Distribuidora COMPARE,-9.3747749,-40.5391531
 23:02,,,Disk Auto Elétrico,-9.3829547,-40.5417454
@@ -688,7 +688,7 @@ Via,Batalhão-PM/Nilo Coelho/7 Set/Honorato
 Motorista,11
 Ônibus,C
 Via,Av. 7 de Setembro/Honorato/Batalhão-PM
-22:15,,,UNIVASF Campus Petrolina Centro,-9.3900684,-40.4988306
+22:15,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 22:17,,,Bar da Tripa,-9.3972835,-40.4914568
 22:19,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 22:22,,,Posto Big Brother,-9.3775827,-40.4884254
@@ -696,7 +696,7 @@ Via,Av. 7 de Setembro/Honorato/Batalhão-PM
 22:27,,,Colina Auto Peças,-9.3779927,-40.5044229
 22:30,,,Rádio Grande Rio,-9.3788273,-40.5069060
 22:33,,,Vila Militar,-9.3825183,-40.5155782
-22:35,,,Posto São Francisco,-9.3855988,-40.5254078
+22:35,,,Posto São Francisco,-9.3862089,-40.523701
 22:38,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 22:40,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 22:42,,,Distribuidora COMPARE,-9.3747749,-40.5391531
