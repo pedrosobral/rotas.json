@@ -75,8 +75,8 @@
     {
       "id": 13,
       "name": "UNIVASF Campus Ciências Agrárias - CCA",
-      "lat": "-9.32297320",
-      "lng": "-40.56835820"
+      "lat": "-9.32493210",
+      "lng": "-40.54974290"
     },
     {
       "id": 14,
@@ -338,102 +338,96 @@
     },
     {
       "id": 57,
-      "name": "Ponto de parada HAVAN",
-      "lat": "-9.39110710",
-      "lng": "-40.51972880"
-    },
-    {
-      "id": 58,
       "name": "TV São Francisco",
       "lat": "-9.41525330",
       "lng": "-40.50110910"
     },
     {
-      "id": 59,
+      "id": 58,
       "name": "Plante Bem",
       "lat": "-9.39484610",
       "lng": "-40.52011130"
     },
     {
-      "id": 60,
+      "id": 59,
       "name": "Nissan",
       "lat": "-9.39522760",
       "lng": "-40.49034770"
     },
     {
-      "id": 61,
+      "id": 60,
       "name": "Ponto do CEAPE",
       "lat": "-9.38077730",
       "lng": "-40.51095910"
     },
     {
-      "id": 62,
+      "id": 61,
       "name": "Padaria Lisboa",
       "lat": "-9.38802270",
       "lng": "-40.51096990"
     },
     {
-      "id": 63,
+      "id": 62,
       "name": "Escola Adelina Almeida",
       "lat": "-9.38383500",
       "lng": "-40.48909130"
     },
     {
-      "id": 64,
+      "id": 63,
       "name": "Lateral Cemitério Campo das Flores - Centro",
       "lat": "-9.39472390",
       "lng": "-40.50651850"
     },
     {
-      "id": 65,
+      "id": 64,
       "name": "Aldiegas Peças e Serviços",
       "lat": "-9.37677780",
       "lng": "-40.49687420"
     },
     {
-      "id": 66,
+      "id": 65,
       "name": "Feira da Areia Branca",
       "lat": "-9.38394720",
       "lng": "-40.49398320"
     },
     {
-      "id": 67,
+      "id": 66,
       "name": "Vila dos Sargentos",
       "lat": "-9.38471240",
       "lng": "-40.52027970"
     },
     {
-      "id": 68,
+      "id": 67,
       "name": "Farmácia Girassol",
       "lat": "-9.43765790",
       "lng": "-40.51507210"
     },
     {
-      "id": 69,
+      "id": 68,
       "name": "Centro Educacional Argemiro",
       "lat": "-9.43861780",
       "lng": "-40.51841350"
     },
     {
-      "id": 70,
+      "id": 69,
       "name": "Rei das Coxinhas",
       "lat": "-9.38661680",
       "lng": "-40.51536140"
     },
     {
-      "id": 71,
+      "id": 70,
       "name": "Espacial/Palhoça",
       "lat": "-9.38126500",
       "lng": "-40.51208650"
     },
     {
-      "id": 72,
+      "id": 71,
       "name": "SAF",
       "lat": "-9.41717240",
       "lng": "-40.50715480"
     },
     {
-      "id": 73,
+      "id": 72,
       "name": "Sindicato Rural dos Trabalhadores",
       "lat": "-9.38865310",
       "lng": "-40.50894960"
@@ -532,8 +526,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:05:00"
         }
       ]
@@ -546,8 +540,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:07:00"
         },
         {
@@ -609,8 +603,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:50:00"
         },
         {
@@ -749,8 +743,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "06:55:00"
         }
       ]
@@ -763,8 +757,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:00:00"
         },
         {
@@ -959,8 +953,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:00:00"
         }
       ]
@@ -973,8 +967,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:05:00"
         },
         {
@@ -1232,8 +1226,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:45:00"
         }
       ]
@@ -1246,8 +1240,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "07:45:00"
         },
         {
@@ -1281,8 +1275,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "08:15:00"
         }
       ]
@@ -1589,8 +1583,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "10:05:00"
         },
         {
@@ -1729,8 +1723,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "10:00:00"
         }
       ]
@@ -1743,8 +1737,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "10:00:00"
         },
         {
@@ -1827,8 +1821,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "10:35:00"
         }
       ]
@@ -2016,8 +2010,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:35:00"
         }
       ]
@@ -2093,8 +2087,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:30:00"
         }
       ]
@@ -2345,8 +2339,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:35:00"
         }
       ]
@@ -2359,8 +2353,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:35:00"
         },
         {
@@ -2499,8 +2493,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:35:00"
         },
         {
@@ -2618,8 +2612,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "12:35:00"
         },
         {
@@ -2730,8 +2724,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "15:10:00"
         },
         {
@@ -2884,8 +2878,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:05:00"
         }
       ]
@@ -2898,8 +2892,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "15:10:00"
         },
         {
@@ -3003,8 +2997,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "15:10:00"
         },
         {
@@ -3199,8 +3193,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:10:00"
         }
       ]
@@ -3304,8 +3298,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "18:00:00"
         }
       ]
@@ -3318,8 +3312,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:15:00"
         },
         {
@@ -3451,8 +3445,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:15:00"
         },
         {
@@ -3563,8 +3557,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:15:00"
         },
         {
@@ -3703,8 +3697,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "17:15:00"
         },
         {
@@ -3878,8 +3872,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "18:15:00"
         },
         {
@@ -4046,8 +4040,8 @@
         {
           "id": 13,
           "name": "UNIVASF Campus Ciências Agrárias - CCA",
-          "lat": "-9.32297320",
-          "lng": "-40.56835820",
+          "lat": "-9.32493210",
+          "lng": "-40.54974290",
           "time": "18:10:00"
         },
         {

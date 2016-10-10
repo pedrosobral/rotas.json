@@ -13,11 +13,11 @@ Via,Batalhão PM/Av. Nações
 06:35,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
 06:37,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 06:40,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,1
 Ônibus,A
 Via, Av. 7 de Setembro
-07:07,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:07,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 07:30,,,Mecânica Bahia,-9.3755787,-40.4948350
 07:32,,,Rádio Grande Rio,-9.3788273,-40.5069060
 07:35,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
@@ -26,7 +26,7 @@ Via, Av. 7 de Setembro
 07:40,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 07:42,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:45,,,IF Sertão,-9.3632223,-40.5449507
-07:50,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:50,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 08:10,,,Del Veículos,-9.3941630,-40.5103180
 08:20,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 08:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -48,11 +48,11 @@ Via,Av. Honorato Viana
 06:45,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 06:48,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 06:50,,,IF Sertão,-9.3632223,-40.5449507
-06:55,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+06:55,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,2
 Ônibus,B
 Via,Av. 7 de Set/Integração/Nilo Coelho
-07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 07:10,,,Canteiro de Obras (Av. 7 de Set),-9.3761590,-40.4952260
 07:13,,,Grande Rio Veículos,-9.3856892,-40.4889025
 07:15,,,Supermercado G Barbosa,-9.3900612,-40.4892109
@@ -82,11 +82,11 @@ Via,Av. 7 de Setembro
 06:53,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 06:55,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 06:58,,,IF Sertão,-9.3632223,-40.5449507
-07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,12
 Ônibus,G
 Via,Av. Honorato viana
-07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 07:10,,,IF Sertão,-9.3632223,-40.5449507
 07:13,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:15,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -125,16 +125,16 @@ Via,Av. 7 de Setembro
 07:32,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 07:35,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:40,,,IF Sertão,-9.3632223,-40.5449507
-07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,3
 Ônibus,C
 Via,Av. Honorato/Integração
-07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+07:45,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 08:05,,,IF Sertão,-9.3632223,-40.5449507
 08:07,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 08:10,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 08:11,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-08:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+08:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,2
 Ônibus,B
 Via,Honorato/Integração
@@ -182,7 +182,7 @@ Via,Av. 7 de Setembro
 09:36,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 09:40,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 09:43,,,IF Sertão,-9.3632223,-40.5449507
-10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+10:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 10:13,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
 10:15,,,Del Veículos,-9.3941630,-40.5103180
 10:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -204,11 +204,11 @@ Via,Av. 7 de Setembro
 09:40,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 09:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 09:50,,,IF Sertão,-9.3632223,-40.5449507
-10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,4
 Ônibus,D
 Via,Av. 7 de Setembro
-10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+10:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 10:10,,,IF Sertão,-9.3632223,-40.5449507
 10:16,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 10:18,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -220,7 +220,7 @@ Via,Av. 7 de Setembro
 10:29,,,INCRA (Av. Integração),-9.3840076,-40.5061997
 10:30,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
 10:32,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-10:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+10:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,1
 Ônibus,A
 Via,Batalhão PM-BA
@@ -249,7 +249,7 @@ Via,Batalhão PM-BA
 12:18,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:21,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:28,,,IF Sertão,-9.3632223,-40.5449507
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,3
 Ônibus,C
 Via, Av. Honorato Viana
@@ -262,7 +262,7 @@ Via, Av. Honorato Viana
 12:15,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:20,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:25,,,IF Sertão,-9.3632223,-40.5449507
-12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,4
 Ônibus,D
 Via,Av. 7 de Setembro
@@ -302,11 +302,11 @@ Via,Honorato Viana
 12:22,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 12:25,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:30,,,IF Sertão,-9.3632223,-40.5449507
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,1
 Ônibus,A
 Via,Batalhão PM-BA
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -328,7 +328,7 @@ Via,Batalhão PM-BA
 Motorista,2
 Ônibus,B
 Via,Av. Nações, Integração
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -347,7 +347,7 @@ Via,Av. Nações, Integração
 Motorista,3
 Ônibus,C
 Via,Av. 7 de Setembro
-12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+12:35,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 12:40,,,IF Sertão,-9.3632223,-40.5449507
 12:45,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:48,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -365,7 +365,7 @@ Via,Av. 7 de Setembro
 Motorista,5
 Ônibus,A
 Via,Av. 7 Set, Batalhão-PM
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:20,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:22,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -387,11 +387,11 @@ Via,Av. 7 Set, Batalhão-PM
 16:25,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
 16:28,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 16:33,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-17:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,6
 Ônibus,B
 Via,Honorato Viana
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:18,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:23,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -408,7 +408,7 @@ Via,Honorato Viana
 Motorista,9
 Ônibus,E
 Via,Av. 7 de Setembro
-15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+15:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 15:15,,,IF Sertão,-9.3632223,-40.5449507
 15:18,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 15:23,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -438,7 +438,7 @@ Via,Av. 7 de Setembro
 16:49,,,Posto São Francisco,-9.3862089,-40.523701
 16:50,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 17:00,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-17:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,9
 Ônibus,E
 Via,Areia Branca/Av. 7 de Setembro
@@ -455,11 +455,11 @@ Via,Areia Branca/Av. 7 de Setembro
 17:30,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
 17:35,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
 17:40,,,IF Sertão,-9.3632223,-40.5449507
-18:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+18:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,5
 Ônibus,A
 Via,Av. Honorato/Batalhão-BA
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -480,7 +480,7 @@ Via,Av. Honorato/Batalhão-BA
 Motorista,6
 Ônibus,B
 Via,Honorato Viana
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:25,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -498,7 +498,7 @@ Via,Honorato Viana
 Motorista,7
 Ônibus,C
 Via,Av. 7 de Setembro
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -520,7 +520,7 @@ Via,Av. 7 de Setembro
 Motorista,8
 Ônibus,F
 Via,Av. 7 de Setembro/Batalhão-PM
-17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+17:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 17:20,,,IF Sertão,-9.3632223,-40.5449507
 17:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 17:26,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -547,7 +547,7 @@ Via,Av. 7 de Setembro/Batalhão-PM
 Motorista,9
 Ônibus,E
 Via,Honorato/Batalhão PM-BA
-18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+18:15,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 18:20,,,IF Sertão,-9.3632223,-40.5449507
 18:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 18:25,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
@@ -573,7 +573,7 @@ Via,Honorato/Batalhão PM-BA
 Motorista,10
 Ônibus,D
 Via,Av. 7 de Setembro
-18:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3229732,-40.5683582
+18:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 18:20,,,IF Sertão,-9.3632223,-40.5449507
 18:23,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 18:27,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
