@@ -27,7 +27,7 @@ Via,Batalhão PM
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
 Motorista,1
 Ônibus,B
-Via,Av. Honorato
+Via,Batalhão PM
 07:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 07:10,,,Terminal de Juazeiro,-9.4147029,-40.5050696
 07:16,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
@@ -49,28 +49,6 @@ Via,Av. Honorato
 07:55,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:58,,,IF Sertão,-9.3632223,-40.5449507
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-Motorista,1
-Ônibus,A
-Via,Av. Honorato
-08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-08:05,,,IF Sertão,-9.3632223,-40.5449507
-08:08,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
-08:10,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-08:12,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-08:15,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
-08:17,,,Del Veículos,-9.3941630,-40.5103180
-08:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
-Ônibus,B
-Via,Av. 7 de Set/Nilo Coelho
-08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-08:05,,,Posto São Francisco,-9.3862089,-40.523701
-08:08,,,Delegacia do Ouro Preto,-9.3831692,-40.5161674
-08:10,,,Ponto do CEAPE,-9.3807773,-40.5109591
-08:12,,,Joalina (Av. das Nações),-9.3851516,-40.5101250
-08:15,,,Sagres,-9.3911556,-40.5082475
-08:17,,,Lateral Cemitério Campo das Flores - Centro,-9.3947239,-40.5065185
-08:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,1
 Ônibus,A
 Via,Batalhão PM-BA
@@ -170,94 +148,50 @@ Via,Av. 7 Setembro
 Motorista,1
 Ônibus,C
 Via,Av. 7 Set/Honorato/Nilo Coelho
-18:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-18:32,,,Sanfra Motos,-9.4128318,-40.5064965
-18:36,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
-18:38,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
-18:40,,,Verdão,-9.4423999,-40.4934499
-18:43,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
-18:45,,,Posto Raul Lins (Castelo Branco),-9.4385940,-40.4947960
-18:48,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
-18:50,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
-18:52,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
-18:55,,,TV São Francisco,-9.4152533,-40.5011091
-18:57,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-18:00,,,Lateral Cemitério Campo das Flores - Centro,-9.3947239,-40.5065185
-19:02,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
-19:05,,,Sindicato Rural dos Trabalhadores,-9.3886531,-40.5089496
-19:07,,,Praça da Sementeira,-9.3858601,-40.5096870
-19:09,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
-19:11,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-19:15,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-19:20,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
-19:24,,,Bar da Tripa,-9.3972835,-40.4914568
-19:26,,,Supermercado G Barbosa,-9.3900612,-40.4892109
-19:30,,,Grande Rio Veículos,-9.3856892,-40.4889025
-19:32,,,Posto Big Brother,-9.3775827,-40.4884254
-19:35,,,Mecânica Bahia,-9.3755787,-40.4948350
-19:38,,,Colina Auto Peças,-9.3779927,-40.5044229
-19:40,,,Rádio Grande Rio,-9.3788273,-40.5069060
-19:42,,,Vila Militar,-9.3825183,-40.5155782
-19:44,,,Posto São Francisco,-9.3862089,-40.523701
-19:47,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-19:49,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-19:52,,,Distribuidora COMPARE,-9.3747749,-40.5391531
-19:58,,,Disk Auto Elétrico,-9.3829547,-40.5417454
-20:03,,,Everest Motos,-9.3839268,-40.5421233
-20:05,,,Posto Entrada do Rio Corrente (ALE),-9.3935054,-40.5435162
-20:07,,,Rotatória da Tapera,-9.3919001,-40.5242130
-20:10,,,Plante Bem,-9.3948461,-40.5201113
-20:13,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
-20:15,,,Del Veículos,-9.3941630,-40.5103180
-20:25,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
-20:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
-Ônibus,C
-Via,Av. 7 Set/Honorato/Nilo Coelho
-21:10,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-21:11,,,Sanfra Motos,-9.4128318,-40.5064965
-21:13,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
-21:14,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
-21:15,,,Verdão,-9.4423999,-40.4934499
-21:17,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
-21:18,,,Posto Raul Lins (Castelo Branco),-9.4385940,-40.4947960
-21:20,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
-21:22,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
-21:23,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
-21:25,,,TV São Francisco,-9.4152533,-40.5011091
-21:27,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-21:37,,,Lateral Cemitério Campo das Flores - Centro,-9.3947239,-40.5065185
-21:39,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
-21:40,,,Sindicato Rural dos Trabalhadores,-9.3886531,-40.5089496
-21:41,,,Praça da Sementeira,-9.3858601,-40.5096870
-21:43,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
-21:44,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-21:46,,,Caixa d’água Compesa,-9.3905530,-40.5010440
-21:48,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
+19:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
+19:32,,,Sanfra Motos,-9.4128318,-40.5064965
+19:36,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
+19:38,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
+19:40,,,Verdão,-9.4423999,-40.4934499
+19:42,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
+19:44,,,Posto Raul Lins (Castelo Branco),-9.4385940,-40.4947960
+19:45,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
+19:47,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
+19:49,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
+19:52,,,TV São Francisco,-9.4152533,-40.5011091
+19:54,,,Terminal de Juazeiro,-9.4147029,-40.5050696
+19:59,,,Lateral Cemitério Campo das Flores - Centro,-9.3947239,-40.5065185
+20:01,,,Rodoviária - Petrolina (Av. das Nações),-9.3911975,-40.5082167
+20:03,,,Sindicato Rural dos Trabalhadores,-9.3886531,-40.5089496
+20:04,,,Praça da Sementeira,-9.3858601,-40.5096870
+20:06,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
+20:07,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
+20:08,,,Caixa d’água Compesa,-9.3905530,-40.5010440
+20:10,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 Motorista,1
 Ônibus,C
 Via,Av. 7 Setembro/Honorato/Batalhão-PM
-21:48,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
-21:50,,,Bar da Tripa,-9.3972835,-40.4914568
-21:52,,,Supermercado G Barbosa,-9.3900612,-40.4892109
-21:55,,,Posto Big Brother,-9.3775827,-40.4884254
-21:57,,,Mecânica Bahia,-9.3755787,-40.4948350
-21:58,,,Colina Auto Peças,-9.3779927,-40.5044229
-21:59,,,Rádio Grande Rio,-9.3788273,-40.5069060
-22:01,,,Vila Militar,-9.3825183,-40.5155782
-22:03,,,Posto São Francisco,-9.3862089,-40.523701
-22:05,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-22:06,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-22:08,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
-22:09,,,Del Veículos,-9.3941630,-40.5103180
-22:15,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
-22:17,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
-22:18,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
-22:20,,,Verdão,-9.4423999,-40.4934499
-22:22,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
-22:23,,,Posto Raul Lins (Castelo Branco),-9.4385940,-40.4947960
-22:25,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
-22:29,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
-22:30,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
-22:35,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-22:40,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
+20:10,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
+20:12,,,Bar da Tripa,-9.3972835,-40.4914568
+20:15,,,Supermercado G Barbosa,-9.3900612,-40.4892109
+20:17,,,Posto Big Brother,-9.3775827,-40.4884254
+20:19,,,Mecânica Bahia,-9.3755787,-40.4948350
+20:20,,,Colina Auto Peças,-9.3779927,-40.5044229
+20:22,,,Rádio Grande Rio,-9.3788273,-40.5069060
+20:23,,,Vila Militar,-9.3825183,-40.5155782
+20:25,,,Posto São Francisco,-9.3862089,-40.523701
+20:29,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
+20:30,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
+20:34,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
+20:36,,,Del Veículos,-9.3941630,-40.5103180
+20:45,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
+20:49,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
+20:50,,,Farmácia Popular (João XXIII),-9.4341840,-40.5012915
+20:52,,,Verdão,-9.4423999,-40.4934499
+20:54,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
+20:56,,,Posto Raul Lins (Castelo Branco),-9.4385940,-40.4947960
+20:57,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
+20:59,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
+21:00,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
+21:05,,,Terminal de Juazeiro,-9.4147029,-40.5050696
+21:10,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
