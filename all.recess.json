@@ -384,6 +384,7 @@
       "id": 1,
       "bus": "A",
       "way": "Batalhão PM",
+      "scientex": "0",
       "stops": [
         {
           "id": 1,
@@ -559,6 +560,7 @@
       "id": 2,
       "bus": "B",
       "way": "Batalhão PM",
+      "scientex": "0",
       "stops": [
         {
           "id": 1,
@@ -713,6 +715,7 @@
       "id": 3,
       "bus": "C",
       "way": "7/Honorato/Nilo Coelho",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
@@ -811,6 +814,7 @@
       "id": 4,
       "bus": "D",
       "way": "7 Set/Honorato Viana",
+      "scientex": "1",
       "stops": [
         {
           "id": 16,
@@ -895,6 +899,7 @@
       "id": 5,
       "bus": "G",
       "way": "Av. Nilo Coelho/Integração/Cohab VI",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
@@ -1014,6 +1019,7 @@
       "id": 6,
       "bus": "A",
       "way": "Batalhão PM-BA",
+      "scientex": "0",
       "stops": [
         {
           "id": 1,
@@ -1140,6 +1146,7 @@
       "id": 7,
       "bus": "D",
       "way": "Av. 7 de Setembro",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
@@ -1308,6 +1315,7 @@
       "id": 8,
       "bus": "A",
       "way": "Batalhão PM-BA",
+      "scientex": "0",
       "stops": [
         {
           "id": 24,
@@ -1504,6 +1512,7 @@
       "id": 9,
       "bus": "B",
       "way": "Honorato/Integração/Batalhão PM",
+      "scientex": "0",
       "stops": [
         {
           "id": 24,
@@ -1686,6 +1695,7 @@
       "id": 10,
       "bus": "A",
       "way": "Av. 7 Setembro",
+      "scientex": "0",
       "stops": [
         {
           "id": 24,
@@ -1798,6 +1808,7 @@
       "id": 11,
       "bus": "C",
       "way": "Av. 7 Set/Honorato/Nilo Coelho",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
@@ -1896,6 +1907,7 @@
       "id": 12,
       "bus": "D",
       "way": "Av. 7 Set/Honorato/Nilo Coelho",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
@@ -2113,6 +2125,7 @@
       "id": 13,
       "bus": "D",
       "way": "Batalhão-PM/ Nilo Coelho/ 7 Setembro/ Honorato",
+      "scientex": "1",
       "stops": [
         {
           "id": 1,
