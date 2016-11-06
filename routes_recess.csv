@@ -1,4 +1,4 @@
-Motorista,1
+Motorista,0
 Ônibus,A
 Via,Batalhão PM
 06:45,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -25,7 +25,7 @@ Via,Batalhão PM
 07:52,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:55,,,IF Sertão,-9.3632223,-40.5449507
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-Motorista,1
+Motorista,0
 Ônibus,B
 Via,Av. Honorato
 07:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -49,7 +49,7 @@ Via,Av. Honorato
 07:55,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 07:58,,,IF Sertão,-9.3632223,-40.5449507
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-Motorista,1
+Motorista,0
 Ônibus,A
 Via,Av. Honorato
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
@@ -60,7 +60,7 @@ Via,Av. Honorato
 08:15,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
 08:17,,,Del Veículos,-9.3941630,-40.5103180
 08:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
+Motorista,0
 Ônibus,B
 Via,Av. 7 de Set/Nilo Coelho
 08:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
@@ -71,7 +71,7 @@ Via,Av. 7 de Set/Nilo Coelho
 08:15,,,Sagres,-9.3911556,-40.5082475
 08:17,,,SAF,-9.3930877,-40.5073569
 08:30,,,UUNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
+Motorista,0
 Ônibus,A
 Via,Batalhão PM-BA
 11:30,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
@@ -91,7 +91,7 @@ Via,Batalhão PM-BA
 12:15,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
 12:20,,,IF Sertão,-9.3632223,-40.5449507
 12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-Motorista,1
+Motorista,0
 Ônibus,A
 Via,Batalhão PM-BA
 12:30,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
@@ -121,7 +121,7 @@ Via,Batalhão PM-BA
 13:47,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 13:50,,,TV São Francisco,-9.4152533,-40.5011091
 13:55,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
+Motorista,0
 Ônibus,B
 Via,Honorato/Integração/Batalhão PM
 17:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
@@ -149,7 +149,7 @@ Via,Honorato/Integração/Batalhão PM
 18:05,,,Canteiro de Obras - Juazeiro,-9.4199554,-40.5012024
 18:10,,,Terminal de Juazeiro,-9.4147029,-40.5050696
 18:15,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-Motorista,1
+Motorista,0
 Ônibus,A
 Via,Av. 7 Setembro
 17:00,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
