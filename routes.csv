@@ -64,15 +64,15 @@ Via,Av. 7 de Set/Integração/Nilo Coelho
 07:35,,,Parada próximo a Metalúrgica (Av Nilo Coelho),-9.3866020,-40.5114630
 07:38,,,Praça da Ambiental (Av. Nilo Coelho),-9.3897498,-40.5104459
 07:40,,,Corpo de Bombeiros Petrolina,-9.3926553,-40.5095519
-08:50,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
-07:55,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
+08:45,,,Supermercado G Barbosa - Santo Antônio,-9.413398,-40.5064117
+07:50,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,12
 Ônibus,G
 Via,Av. 7 de Setembro
-06:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
-06:08,,,Igreja Mórmon,-9.3957990,-40.5101240
-06:12,,,Supermercado Pageú,-9.3970390,-40.5132520
-06:20,,,Hyundai,-9.3957860,-40.5186745
+06:10,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
+06:18,,,Igreja Mórmon,-9.3957990,-40.5101240
+06:20,,,Supermercado Pageú,-9.3970390,-40.5132520
+06:22,,,Hyundai,-9.3957860,-40.5186745
 06:30,,,Rotatória da Tapera,-9.3919001,-40.5242130
 06:35,,,Posto Entrada do Rio Corrente (ALE),-9.3935054,-40.5435162
 06:40,,,Everest Motos,-9.3839268,-40.5421233
@@ -86,20 +86,20 @@ Via,Av. 7 de Setembro
 Motorista,12
 Ônibus,G
 Via,Av. Honorato viana
-07:05,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
-07:10,,,IF Sertão,-9.3632223,-40.5449507
-07:13,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
-07:15,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
-07:16,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
-07:18,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
-07:21,,,Del Veículos,-9.3941630,-40.5103180
-07:23,,,Corpo de Bombeiros Petrolina,-9.3926553,-40.5095519
-07:25,,,Praça da Ambiental (Av. Nilo Coelho),-9.3897498,-40.5104459
-07:36,,,Parada próximo a Metalúrgica (Av Nilo Coelho),-9.3866020,-40.5114630
-07:28,,,Praça da Sementeira,-9.3858601,-40.5096870
-07:30,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
-07:31,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-07:35,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
+07:10,,,UNIVASF Campus Ciências Agrárias - CCA,-9.3249321,-40.5497429
+07:17,,,IF Sertão,-9.3632223,-40.5449507
+07:19,,,Entrada do Bairro Quati,-9.3652831,-40.5437495
+07:21,,,SAMU (Jardim Amazonas),-9.3781393,-40.5350712
+07:23,,,Feira da Cohab Massangano (Jardim Amazonas),-9.3797931,-40.5334080
+07:24,,,Zé Nilton Automóveis,-9.3916051,-40.5181870
+07:27,,,Del Veículos,-9.3941630,-40.5103180
+07:30,,,Corpo de Bombeiros Petrolina,-9.3926553,-40.5095519
+07:32,,,Praça da Ambiental (Av. Nilo Coelho),-9.3897498,-40.5104459
+07:33,,,Parada próximo a Metalúrgica (Av Nilo Coelho),-9.3866020,-40.5114630
+07:35,,,Praça da Sementeira,-9.3858601,-40.5096870
+07:38,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
+07:40,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
+07:42,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 07:48,,,Supermercado Regente,-9.3954612,-40.5022796
 08:00,,,UNIVASF Campus Juazeiro,-9.4115315,-40.5127180
 Motorista,3/4
@@ -654,17 +654,17 @@ Via,Batalhão-PM/Nilo Coelho/7 Set/Honorato
 22:16,,,Sanfra Motos,-9.4128318,-40.5064965
 22:18,,,Estação Velha / Cooperativa Brasil,-9.4289045,-40.5040705
 22:19,,,Verdão,-9.4423999,-40.4934499
-22:21,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
-22:22,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
-22:25,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
-22:26,,,Terminal de Juazeiro,-9.4147029,-40.5050696
-22:30,,,Corpo de Bombeiros Petrolina,-9.3926553,-40.5095519
-22:31,,,Praça da Ambiental (Av. Nilo Coelho),-9.3897498,-40.5104459
-22:32,,,Praça da Sementeira,-9.3858601,-40.5096870
-22:34,,,INCRA (Av. Integração),-9.3840076,-40.5061997
-22:36,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
-22:37,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
-22:40,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
+18:25,,,Centro Educacional Argemiro,-9.4386178,-40.5184135
+22:29,,,Ao Lado do Batalhão da PM,-9.4420700,-40.4928630
+22:30,,,Equipadora Cordeiro (Alto do Cruzeiro),-9.4311731,-40.4982871
+22:32,,,Parque Lagoa de Calú,-9.4254263,-40.5001298
+22:37,,,Corpo de Bombeiros Petrolina,-9.3926553,-40.5095519
+22:38,,,Praça da Ambiental (Av. Nilo Coelho),-9.3897498,-40.5104459
+22:39,,,Praça da Sementeira,-9.3858601,-40.5096870
+22:41,,,INCRA (Av. Integração),-9.3840076,-40.5061997
+22:42,,,Sabel São Francisco Bebidas (Av. Inte Airton Senna),-9.3828549,-40.5028950
+22:44,,,Park Mundo da Lua (Av. Integração),-9.3853735,-40.4980213
+22:45,,,UNIVASF Campus Petrolina Centro,-9.390007,-40.4981706
 22:43,,,Supermercado G Barbosa,-9.3900612,-40.4892109
 22:46,,,Posto Big Brother,-9.3775827,-40.4884254
 22:48,,,Mecânica Bahia,-9.3755787,-40.4948350
